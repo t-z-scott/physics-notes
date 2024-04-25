@@ -70,6 +70,7 @@ If we place a charge $q$ in an electric field, it will feel a force given by $\v
 ## Electric Field of a Point Charge
 **Electric field of a point charge**: $E=k\dfrac{Q}{r^2}$ 
 > [!QUESTION]
+>
 > What is the magnitude of the acceleration of a particle of mass $m$ and charge $+Q$ placed between the plates of a parallel plate capacitor of charge density $\delta$?
 > $a=Q\delta/\epsilon_0m$ 
 
