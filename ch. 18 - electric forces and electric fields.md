@@ -109,7 +109,7 @@ This is a static condition - once the surface charges are induced, they don't mo
 $\Phi_E=E_{\tau}A=(E\cos\phi)A$
 i.e. \[(electric field)(area)] = $\left[ \dfrac{N*m^2}{C} \right]$ 
 
-We can now use the concept of electric flux and *Gauss' Law* to determine the [[ch. 18 - electric forces and electric fields#Electric Field|electric field]]. Let's start with a positive [point charge](#electric-field-of-a-point-charge): $E=k\dfrac{Q}{r^2}$.
+We can now use the concept of electric flux and *Gauss' Law* to determine the [electric field](#electric-field). Let's start with a positive [point charge](#electric-field-of-a-point-charge): $E=k\dfrac{Q}{r^2}$.
 
 To use Gauss' Law, you have to pick a surface. For example, for my point charge $+Q$, I'll enclose it in a spherical radius $r$. This is my surface.
 - **Gaussian surface**: surface to which I will apply Gauss' Law
@@ -117,5 +117,5 @@ To use Gauss' Law, you have to pick a surface. For example, for my point charge 
 
 > **Gauss' Law**: The electric flux passing through a Gaussian surface is equal to the charge enclosed by the surface divided by $\epsilon_0$.
 
-$$ \Phi_E=\dfrac{Q_{\text{enc}}}{\epsilon_0} \rightarrow \boxed{\sum(E\cos\phi)\Delta A=\dfrac{Q_{\text{enc}}}{\epsilon_0}} $$
+$$\Phi_E=\dfrac{Q_{\text{enc}}}{\epsilon_0} \rightarrow \boxed{\sum(E\cos\phi)\Delta A=\dfrac{Q_{\text{enc}}}{\epsilon_0}}$$
 (The summation here is to sum over the different areas you have in your Gaussian surface.)
