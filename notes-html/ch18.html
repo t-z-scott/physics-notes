@@ -1,11 +1,177 @@
-<html>
-    <head>
-        <script
-            type="module"
-            src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
-        ></script>
-    </head>
-    <body>
-        <zero.md src="../notes/ch. 18 - electric forces and electric fields.md"></zero.md>
-    </body>
-</html>
+<head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body>
+    <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text -->
+
+    <h1 id="electricity">Electricity</h1>
+    <p>The electrical nature of matter is inherent in atomic structure.</p>
+    <p><strong>Proton&#39;s charge</strong>: $+1e$ = $+1.602*10^{-19}\ C$ (Coulombs)</p>
+    <p><strong>Electron&#39;s charge</strong>: $-1e$ = $-1.602*10^{-19}\ C$ </p>
+    <p><strong>Neutron&#39;s charge</strong>: none</p>
+    <p>Removing an electron from a neutral atom (where number of protons = number of electrons) yields a positively
+        charged
+        ion, called <strong>electrification</strong>. This results in a <em>transfer</em> of charge, not a
+        <em>creation</em>
+        of charge.</p>
+    <blockquote>
+        <p>Charge can neither be created or destroyed.</p>
+        <ul>
+            <li><em>Law of Conservation of Electrical Charge</em></li>
+        </ul>
+    </blockquote>
+    <hr>
+    <h1 id="charged-objects-and-the-electrical-force">Charged Objects and the Electrical Force</h1>
+    <blockquote>
+        <p>Objects with excess charge will exert forces on each other.</p>
+        <ul>
+            <li><em>Electrical Force</em> (like gravitational force)</li>
+        </ul>
+    </blockquote>
+    <p>Opposite charges <mark>attract</mark>, like charges <mark>repel</mark>. Attractive vs repulsive.</p>
+    <p>Newton&#39;s 2nd Law: $F=ma$
+        $\therefore$ Electric charges can accelerate forces.</p>
+    <hr>
+    <h1 id="conductors--insulators">Conductors &amp; Insulators</h1>
+    <p>Conductors and insulators are determined by atomic structure. The valence (outermost) electrons are more weakly
+        bound
+        to the nucleus. They can &quot;break free&quot; and move through the material. These are called
+        <strong>conduction
+            electrons</strong>.</p>
+    <p>(negative charged object: $-5 C$) --&gt; <del>conductor</del> --&gt; (positively charged obj: $+13C$)</p>
+    <p>Electrons will continue to flow until the charge on each object is <mark>equal</mark>.
+        $-5C+13C=8C$, so each object must end up with a charge of $+4C$.</p>
+    <p>Generally, good thermal conductors are good electrical conductors.
+        <em>Conductors</em> - copper, silver, salt water, gold, iron
+        <em>Insulators</em> - rubber, glass, wood, plastic
+    </p>
+    <hr>
+    <h1 id="charging-an-object">Charging an Object</h1>
+    <ul>
+        <li><strong><em>Two ways to charge</em></strong> -<ol>
+                <li><strong>Charging by contact</strong>: touch a positively charged object with a negatively charged
+                    object, or vice versa</li>
+                <li><strong>Charging by induction</strong>: bring a negatively charged object close to a positively
+                    charged
+                    object, or vice versa.<ul>
+                        <li>(does not work for <em>insulators</em>, instead forms dipoles) - called
+                            <strong>Polarization</strong>
+                            <ul>
+                                <li><strong>Dipoles</strong>: two equal but opposite charges separated by some distance
+                                    $r$.
+                                </li>
+                            </ul>
+                        </li>
+                        <li>produces <em>static cling</em> by forming a slight positive charge</li>
+                    </ul>
+                </li>
+            </ol>
+        </li>
+    </ul>
+    <hr>
+    <h1 id="coulombs-law">Coulomb&#39;s Law</h1>
+    <p><strong><em>Coulomb&#39;s Law</em></strong>: $F=k\dfrac{q_1*q_2}{r^2}$ (watch the magnitude! don&#39;t negate)
+        <strong>Point charges</strong>: charges that are much smaller than the distance separating them
+    </p>
+    <p>What if there&#39;s <em>3 charges?</em> - Then the net force on one charge is the <mark>vector sum</mark> of the
+        other two forces.</p>
+    <hr>
+    <h1 id="electric-field">Electric Field</h1>
+    <p>A charge creates an <strong>electric field</strong> that fills all space. Any other charge in that field will
+        feel a
+        force.</p>
+    <ul>
+        <li>Similarly, in a <strong>gravitational field</strong>, the earth fills all space, and the moon feels the
+            effect
+            of this field.</li>
+        <li><em>Stationary</em> charges create electric fields that fill all space. </li>
+        <li>Other (<em>non-stationary</em>) charges will feel forces in these electric fields.
+            $$\vec{E}=\dfrac{\vec{F}}{q_0}$$
+            i.e. the electric field is <em>force</em> per unit <em>charge</em>: $\left[ \dfrac{N}{C} \right]$
+            If we place a charge $q$ in an electric field, it will feel a force given by $\vec{F}=q\vec{E}$. $E$ is
+            created
+            by other charges, <u>not</u> q.</li>
+    </ul>
+    <h2 id="electric-field-of-a-point-charge">Electric Field of a Point Charge</h2>
+    <p><strong>Electric field of a point charge</strong>: $E=k\dfrac{Q}{r^2}$.</p>
+    <blockquote>
+        <p>[!TIP]
+            The magnitude of the acceleration of a particle of mass $<code>m</code>$ and charge $<code>+Q</code>$ placed
+            between the plates of a parallel plate capacitor of charge density $<code>\delta</code>$ is
+            $a=Q\delta/\epsilon_0m$.</p>
+    </blockquote>
+    <h1 id="electric-field-lines">Electric Field Lines</h1>
+    <blockquote>
+        <p>Electric fields lines <em>always</em> start at and are directed away from positive charges and always end at
+            and
+            are directed toward negative charges.</p>
+        <ol>
+            <li>Lines start from positive charges and end on negative charges.</li>
+            <li>The electric field vector at some point in space is always <mark>tangent</mark> to the field line at
+                that
+                point.</li>
+            <li>The <em>more lines</em> you have per unit volume (density), the <em>stronger</em> the field.</li>
+            <li>The <em>number</em> of field lines is <em>proportional to the magnitude</em> of the charge.</li>
+        </ol>
+    </blockquote>
+    <hr>
+    <h2 id="parallel-plate-capacitor">Parallel Plate Capacitor</h2>
+    <p>Consider a metallic plate with a total charge $+q$ distributed uniformly over its surface. If the face of the
+        plate
+        has a surface area $A$, then $\sigma=\dfrac{q}{A}$ where $s$ is the <em>surface charge density</em>.</p>
+    <p>Now let&#39;s take two identical plates, one with total charge $+q$ and one with total charge $-q$. So the
+        magnitude
+        of $s$ is $q/A$ for each plate. In between the plates, there&#39;s a uniform electric field that points from the
+        positive plate to the negative one. This is a <strong>parallel plate capacitor</strong>.</p>
+    <p><em>Electric field between the plates</em>: $E=\dfrac{q}{\epsilon_0A}=\dfrac{\sigma}{\epsilon_0}$.</p>
+    <blockquote>
+        <p>[!NOTE]
+            The field doesn&#39;t depend on the distance from the charged plates. It&#39;s uniform, but only near the
+            middle
+            of the plates. This is a <em>fringe field</em>.</p>
+    </blockquote>
+    <hr>
+    <h1 id="electric-field-inside-a-conductor">Electric Field Inside a Conductor</h1>
+    <p>Let&#39;s place a bunch of electrons at the center of a solid conducting sphere. <em>Repulsion spreads electrons
+            out!</em> So, they move to the surface.</p>
+    <blockquote>
+        <p>At equilibrium under electrostatic conditions, any excess charge resides on the surface of the conductor.</p>
+    </blockquote>
+    <p>The interior of the conductor still has electrons, but they are compensated exactly by the positive changes in
+        the
+        interior, so the interior is <u>electrically neutral</u>. Since the charges are static, the force on them is
+        zero,
+        therefore <mark>$E=0$</mark>.</p>
+    <p>This is a static condition - once the surface charges are induced, they don&#39;t move.</p>
+    <blockquote>
+        <p>This electric field has to be perpendicular to the surface of a conductor.</p>
+    </blockquote>
+    <hr>
+    <h1 id="electric-flux-and-gauss-law">Electric Flux and Gauss&#39; Law</h1>
+    <p><strong>Flux</strong>: measure of how much field passes perpendicularly through a surface</p>
+    <p>$$\Phi_E=E_{\tau}A=(E\cos\phi)A$$
+        i.e. [(Electric field)(Area)] = $$\left[ \dfrac{N*m^2}{C} \right]$$ </p>
+    <p>We can now use the concept of electric flux and <em>Gauss&#39; Law</em> to determine the <a
+            href="#electric-field">electric field</a>. Let&#39;s start with a positive <a
+            href="#electric-field-of-a-point-charge">point charge</a>: $E=k\dfrac{Q}{r^2}$.</p>
+    <p>To use Gauss&#39; Law, you have to pick a surface. For example, for my point charge $+Q$, I&#39;ll enclose it in
+        a
+        spherical radius $r$. This is my surface.</p>
+    <ul>
+        <li><strong>Gaussian surface</strong>: surface to which I will apply Gauss&#39; Law<ul>
+                <li>Ideally, it&#39;ll have high symmetry, like a sphere or cylinder, so it&#39;s easy to calculate the
+                    area
+                    of the surfaces.</li>
+            </ul>
+        </li>
+    </ul>
+    <blockquote>
+        <p><strong>Gauss&#39; Law</strong>: The electric flux passing through a Gaussian surface is equal to the charge
+            enclosed by the surface divided by $\epsilon_0$.</p>
+    </blockquote>
+    <p>$$\Phi_E=\dfrac{Q_{\text{enc}}}{\epsilon_0} \rightarrow \boxed{\sum(E\cos\phi)\Delta
+        A=\dfrac{Q_{\text{enc}}}{\epsilon_0}}$$
+        (The summation here is to sum over the different areas you have in your Gaussian surface.)</p>
+</body>
