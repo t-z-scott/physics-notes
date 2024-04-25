@@ -88,7 +88,8 @@ Consider a metallic plate with a total charge $+q$ distributed uniformly over it
 Now let's take two identical plates, one with total charge $+q$ and one with total charge $-q$. So the magnitude of $s$ is $q/A$ for each plate. In between the plates, there's a uniform electric field that points from the positive plate to the negative one. This is a **parallel plate capacitor**.
 
 *Electric field between the plates*: $E=\dfrac{q}{\epsilon_0A}=\dfrac{\sigma}{\epsilon_0}$.
-> [!NOTE] The field doesn't depend on the distance from the charged plates. It's uniform, but only near the middle of the plates. This is a *fringe field*.
+> [!NOTE]
+> The field doesn't depend on the distance from the charged plates. It's uniform, but only near the middle of the plates. This is a *fringe field*.
 
 ---
 
