@@ -63,14 +63,14 @@ A charge creates an **electric field** that fills all space. Any other charge in
 - Similarly, in a **gravitational field**, the earth fills all space, and the moon feels the effect of this field.
 - *Stationary* charges create electric fields that fill all space. 
 - Other (*non-stationary*) charges will feel forces in these electric fields.
-$$ \vec{E}=\dfrac{\vec{F}}{q_0} $$
+$$\vec{E}=\dfrac{\vec{F}}{q_0}$$
 i.e. the electric field is *force* per unit *charge*: $\left[ \dfrac{N}{C} \right]$ 
 If we place a charge $q$ in an electric field, it will feel a force given by $\vec{F}=q\vec{E}$. $E$ is created by other charges, <u>not</u> q.
 
 ## Electric Field of a Point Charge
 **Electric field of a point charge**: $E=k\dfrac{Q}{r^2}$ 
 > [!TIP]
-> The magnitude of the acceleration of a particle of mass $m$ and charge $+Q$ placed between the plates of a parallel plate capacitor of charge density $\delta$ is $a=Q\delta/\epsilon_0m$.
+> The magnitude of the acceleration of a particle of mass $m$ and charge $+Q$ placed between the plates of a parallel plate capacitor of charge density $$\delta$$ is $a=Q\delta/\epsilon_0m$.
 
 # Electric Field Lines
 > Electric fields lines *always* start at and are directed away from positive charges and always end at and are directed toward negative charges.
