@@ -106,7 +106,7 @@ This is a static condition - once the surface charges are induced, they don't mo
 # Electric Flux and Gauss' Law
 **Flux**: measure of how much field passes perpendicularly through a surface
 
-$$ \Phi_E=E_{\tau}A=(E\cos\phi)A $$
+$\Phi_E=E_{\tau}A=(E\cos\phi)A$
 i.e. \[(electric field)(area)] = $\left[ \dfrac{N*m^2}{C} \right]$ 
 
 We can now use the concept of electric flux and *Gauss' Law* to determine the [[ch. 18 - electric forces and electric fields#Electric Field|electric field]]. Let's start with a positive [point charge](#electric-field-of-a-point-charge): $E=k\dfrac{Q}{r^2}$.
