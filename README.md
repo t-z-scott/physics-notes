@@ -6,7 +6,7 @@ A website to display my Physics 2 notes, for fellow struggling students.
 - [ ] Fix the [inline math issue](#inline-math).
 - [x] Add an Markdown index to this README.
 - [ ] Add more pages.
-- [ ] _Optional_: Make a script to convert Obsidian-flavored markdown to GitHub-flavored markdown (currently doing it manually).
+- [ ] ~_Optional_: Make a script to convert Obsidian-flavored markdown to GitHub-flavored markdown (currently doing it manually).~
 - [ ] Use CSS (or a framework) to make the pages look nicer.
 - [ ] _Optional_: Add the other topics in my repo (includes Introduction to Cybersecurity, Computer Organization and Design, etc.).
 
