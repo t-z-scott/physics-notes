@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Electric Circuits - Physics Notes</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../css/brands.min.css" rel="stylesheet">
+        <link href="../../css/solid.min.css" rel="stylesheet">
+        <link href="../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Physics Notes</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../.." class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../../about/" class="nav-link">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../../topics/" class="nav-link">Index</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle active" aria-current="page" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Notes</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../ch18/" class="dropdown-item">Electric Forces and Electric Fields</a>
+</li>
+                                    
+<li>
+    <a href="../ch19/" class="dropdown-item">Potential Energy</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active" aria-current="page">Electric Circuits</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../ch19/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" class="nav-link disabled">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#electric-circuits" class="nav-link">Electric Circuits</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#electromotive-force" class="nav-link">Electromotive Force</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#ohms-law" class="nav-link">Ohm's Law</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#resistivity" class="nav-link">Resistivity</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#electrical-power" class="nav-link">Electrical Power</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#alternating-current" class="nav-link">Alternating Current</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#power-in-an-ac-circuit" class="nav-link">Power in an AC Circuit</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#series-circuits" class="nav-link">Series Circuits</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#parallel-circuits" class="nav-link">Parallel Circuits</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#series-and-parallel-circuits" class="nav-link">Series and Parallel Circuits</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#internal-resistance" class="nav-link">Internal Resistance</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#measuring-voltages-and-currents" class="nav-link">Measuring Voltages and Currents</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#capacitors-in-series-and-parallel" class="nav-link">Capacitors in Series and Parallel</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#rc-circuits" class="nav-link">RC Circuits</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="electric-circuits">Electric Circuits</h1>
+<h2 id="electromotive-force">Electromotive Force</h2>
+<p>Electrical energy is transferred from a power source, such as a battery, to a device, such as a light bulb. Inside a battery, a chemical reaction separates positive and negative charges, creating a <a href="../ch19/#electric-potential-difference">potential difference</a>. This potential difference is equivalent to the battery's voltage, or <script type="math/tex">emf\ (\epsilon)</script> (<strong>electromotive force</strong>, which is a potential, not a force).</p>
+<p>Because of the <script type="math/tex">emf</script> on the battery, an <a href="../ch18/#electric-field">electric field</a> is produced within and parallel to the wires. This creates a force on the charges in the wire and moves them around the circuit. This <em>flow of charge</em> in a conductor is called the <strong>electrical current</strong> (<script type="math/tex">I</script>).</p>
+<p>Electrical current: <script type="math/tex">\boxed{I=\dfrac{\Delta q}{\Delta t}}</script> 
+- <em>units</em> - <script type="math/tex">\left[ \dfrac{\text{Charge}}{\text{time}} \right]=\left[ \dfrac{C}{s} \right]=[\text{Ampere}]=[A]</script>
+</p>
+<p>If the current only moves in <mark>one direction</mark>, like with batteries, it's called <strong>direct current</strong> (<script type="math/tex">DC</script>).
+If the current moves in <mark>both directions</mark>, like in a house, it's called <strong>alternating current</strong> (<script type="math/tex">AC</script>).</p>
+<p>Electric current is due to the flow of moving electrons, but we will use the <em>positive conventional current</em> in circuit diagrams. <script type="math/tex">I</script> shows the direction of "positive" charge flow from high to low potential.</p>
+<hr />
+<h2 id="ohms-law">Ohm's Law</h2>
+<p>The battery pushing the current acts like a water pump pushing the water through a pipe. The voltage of the battery is like pump pressure - the larger the voltage, the greater the current. <script type="math/tex">V \varpropto I</script>.</p>
+<p>Ohm's Law: <script type="math/tex">\boxed{V=IR}</script> 
+- <script type="math/tex">R=</script> electrical resistance
+- <em>units</em> - <script type="math/tex">R=\left[ \dfrac{\text{Volts}}{\text{Amp}} \right]=\left[ \dfrac{V}{A} \right]=[\text{Ohm}]=[\Omega]</script>
+</p>
+<p><strong>Resistor</strong>: component of an electrical circuit that offers resistance to the flow of electric current.</p>
+<hr />
+<h2 id="resistivity">Resistivity</h2>
+<p>The electrical <a href="#ohms-law">resistance</a> of a conductor depends on its shape. Longer wires have more resistance; fatter wires have less. Thus, <script type="math/tex">R \varpropto \frac{L}{A}</script>.</p>
+<p>Resistivity: <script type="math/tex">\boxed{R=\rho \dfrac{L}{A}}</script> 
+- <script type="math/tex">\rho=</script>
+<strong>electrical resistivity</strong> (proportionality constant)
+- <em>units</em> - <script type="math/tex">\rho=R\dfrac{A}{L} \left[ \dfrac{\Omega*m^2}{m} \right] \rightarrow [\Omega*m]</script>
+</p>
+<p>Resistivity is an intrinsic property of materials, like density. Every piece of copper has the <em>same resistivity</em>, but the resistance of any one piece depends on its size and shape.</p>
+<h3 id="temperature-dependence-of-resistivity">Temperature Dependence of Resistivity</h3>
+<p>The resistance of most materials changes with temperature. For good conductors (metals), the resistance <em>decreases</em> with decreasing temperature. For poor conductors (insulators), the resistance <em>increases</em> with decreasing temperature.</p>
+<p>Resistance: <script type="math/tex">\boxed{R=R_0[1+\alpha(T-T_0)]}</script> 
+- <script type="math/tex">R=</script> resistance at temperature <script type="math/tex">T</script> 
+- <script type="math/tex">R_0=</script> resistance at temperature <script type="math/tex">T_0</script> 
+- <script type="math/tex">\alpha=</script> temperature coefficient of resistivity (<script type="math/tex">\alpha>0</script> for metals // <script type="math/tex">\alpha<0</script> for insulators)</p>
+<hr />
+<h2 id="electrical-power">Electrical Power</h2>
+<p>Power: <script type="math/tex">P=IV=I^2R=\dfrac{V^2}{R}</script>.</p>
+<h3 id="electrical-energy">Electrical Energy</h3>
+<p>Work and energy have the same units (Joules). So, <script type="math/tex">\boxed{\text{Energy}=\text{Power}*\text{Time}}</script>. Electrical companies measure your monthly energy in this way, using <em>kilowatt*hours</em> (<script type="math/tex">kWh</script>).</p>
+<p>
+<script type="math/tex; mode=display"> \boxed{1\ kWh=3.6*10^6\ J} </script>
+</p>
+<h3 id="power-transmission">Power Transmission</h3>
+<p>Electrical power is transmitted at high voltages instead of high currents, because <em>thermal losses</em> (losing electrical power by converting it to heat) is proportional to <script type="math/tex">I^2</script> for a given voltage and proportional to <script type="math/tex">V</script>.</p>
+<p>
+<script type="math/tex">\boxed{P \varpropto I^2}</script>     //    <script type="math/tex">\boxed{P \varpropto V}</script>
+</p>
+<hr />
+<h2 id="alternating-current">Alternating Current</h2>
+<p>Circuits where the current periodically switches direction use <strong>alternating current</strong> (<strong>AC</strong>). The most common type of AC current is one that varies sinusoidally with time.</p>
+<p>Voltage in an AC circuit as a function of time: <script type="math/tex">\boxed{V=V_0\sin 2\pi ft=V-0 \sin \omega t}</script>.
+- <script type="math/tex">V_0=</script> peak (max) voltage
+- <script type="math/tex">f=</script> frequency (Hz)</p>
+<p>Since the voltage in an AC circuit oscillates in time, so does the current.
+<script type="math/tex">I=\dfrac{V_0}{R}\sin2\pi ft=I_0 \sin2\pi ft</script>, where <script type="math/tex">I_0=V_0/R</script>.</p>
+<h2 id="power-in-an-ac-circuit">Power in an AC Circuit</h2>
+<p>Just like in a DC circuit, the power is <script type="math/tex">P=IV</script>, but since both the current and the voltage fluctuate in time, so does the power.
+<script type="math/tex">P=IV=(I_0\sin2\pi ft)(V_0\sin2\pi ft)=I_0V_0\sin^22\pi ft</script>.</p>
+<p>Since the power fluctuates in time, we often just reference the <em>average power</em> in the circuit.
+<script type="math/tex">\bar{P}=\frac{1}{2}I_0V_0</script>.
+We can rewrite the equation for this as:
+<script type="math/tex; mode=display"> \bar{P}=\left(\dfrac{I_0}{\sqrt{2}}\right) \left(\dfrac{V_0}{\sqrt{2}}\right)=I_{\text{ms}}V_{\text{ms}} </script>
+Unless otherwise stated, the voltage in AC circuits will represent the rms voltage, and the power will represent the average power.
+<script type="math/tex; mode=display"> \bar{P}=I_{\text{rms}}V_{\text{rms}}=I_{\text{rms}}^2R=\dfrac{V_{\text{rms}}^2}{R} </script>
+</p>
+<hr />
+<h2 id="series-circuits">Series Circuits</h2>
+<p>A <strong>series circuit</strong> is when the <mark>same current</mark> runs through two components connected in series. The <em>voltage drop</em> (<a href="../ch19/#electric-potential-difference">potential difference</a>) across resistors is different.</p>
+<p>Net resistance (equivalent resistance): <script type="math/tex">\boxed{R_{\text{eq}}=R_1+R_2+\dots+R_n}</script>
+</p>
+<hr />
+<h2 id="parallel-circuits">Parallel Circuits</h2>
+<p>A <strong>parallel circuit</strong> is when the <mark>current is split</mark> across different wires. For this type of circuit, the <em>voltage drop</em> (<a href="../ch19/#electric-potential-difference">potential difference</a>) is the same.</p>
+<p>Net resistance (equivalent resistance): <script type="math/tex">\boxed{ \dfrac{1}{R_{\text{eq}}}=\dfrac{1}{R_1}+\dfrac{1}{R_2}+\dots+\dfrac{1}{R_n} }</script>
+</p>
+<hr />
+<h2 id="series-and-parallel-circuits">Series and Parallel Circuits</h2>
+<p>If resistors are hooked up both in <a href="#series-circuits">series</a> and in <a href="#parallel-circuits">parallel</a> in the same circuit, you must combine resistors to find <script type="math/tex">R_{\text{eq}}</script>.</p>
+<hr />
+<h2 id="internal-resistance">Internal Resistance</h2>
+<p>Batteries and generators have some resistance as well. This is called <strong>internal resistance</strong> (<script type="math/tex">r</script>). In batteries it's due to the chemicals, and in generators it's due to the wire resistance. The voltage across the battery (terminal voltage, <script type="math/tex">V_T</script>) is less than the full voltage <script type="math/tex">V</script>, since some is lost across <script type="math/tex">r</script>.</p>
+<p>Terminal voltage: <script type="math/tex">\boxed{V_T=V-V_r}</script>
+</p>
+<h3 id="kirchhoffs-rules">Kirchhoff's Rules</h3>
+<p>In many circuits, applying the <a href="#series-circuits">series</a> or <a href="#parallel-circuits">parallel</a> methods is not sufficient to analyze them. There are two other rules we can use called <strong>Kirchhoff's Rules</strong>.</p>
+<h4 id="1-junction-rule">1. Junction Rule</h4>
+<p>Current into a junction has to equal current out, based on conservation of charge.</p>
+<h4 id="2-loop-rule">2. Loop Rule</h4>
+<p>Around any closed circuit loop, the sum of the <a href="../ch19/#electric-potential-difference">potential difference</a> has to equal the sum of the potential rises. (This is based on conservation of energy.)</p>
+<hr />
+<h2 id="measuring-voltages-and-currents">Measuring Voltages and Currents</h2>
+<p>Currents and voltages can be measured with devices called <strong>ammeters</strong> and <strong>voltmeters</strong>, respectively. Both these devices rely on the DC <em>galvanometer</em>. </p>
+<h3 id="ammeter-resistance">ammeter resistance</h3>
+<p>(A circuit must be "broken" to use an ammeter - it needs to be inserted inside the circuit.)</p>
+<p>Inside an ammeter, a small resistor (<script type="math/tex">r_s</script>) is wired in parallel with the galvanometer. Almost all of the current passes through the shunt resistor, so the ammeter has very little effect on the circuit, i.e. <mark>nearly zero resistance</mark>.</p>
+<h3 id="voltmeter">Voltmeter</h3>
+<p><strong>Voltmeter</strong>: measures the <a href="../ch19/#electric-potential-difference">potential difference</a> between two points in the circuit, i.e. across a resistor. It doesn't have to be inserted in the circuit. A voltmeter has a <em>high resistance</em>, so <mark>very little current</mark> actually flows through the voltmeter.</p>
+<hr />
+<h2 id="capacitors-in-series-and-parallel">Capacitors in Series and Parallel</h2>
+<p>Capacitors connected in <a href="#parallel-circuits">parallel</a>: <script type="math/tex">\boxed{ C_{\text{eq}}=C_1+C_2+\dots+C_n }</script> 
+Capacitors connected in <a href="#series-circuits">series</a>: <script type="math/tex">\boxed{ \dfrac{1}{C_{\text{eq}}}=\dfrac{1}{C_1}+\dfrac{1}{C_2}+\dots+\dfrac{1}{C_n} }</script>
+</p>
+<hr />
+<h2 id="rc-circuits">RC Circuits</h2>
+<p><strong>RC Circuit</strong>: a resistor is in <a href="#series-circuits">series</a> with a <a href="#capacitors-in-series-and-parallel">capacitor</a>. When the switch closes, charge builds up gradually on the capacitor plates as the current flows and approaches an equilibrium value (<script type="math/tex">Q_0</script>). If the capacitor is initially uncharged at <script type="math/tex">t=0</script>, then the charge on the capacitor at some later time <script type="math/tex">t</script> is <script type="math/tex">\boxed{Q=Q_0\left[1-e^{-t/RC}\right]}</script>.</p>
+<p>If <script type="math/tex">t=0</script>, then <script type="math/tex">Q=Q_0\left[1-e^{0/RC}\right]=Q_0[1-1]=0</script>. We can get the voltage across the capacitor at any time by dividing by the charge by the capacitance, since <script type="math/tex">V=Q/C</script>: <script type="math/tex">\boxed{V=V_0\left[1-e^{-t/RC}\right]}</script>.</p>
+<h3 id="rc">RC</h3>
+<p><em>units</em> - <script type="math/tex">[\text{Resistance}*\text{Capacitance}]=[\Omega*F]=\left[ \left(\dfrac{V*s}{Q}\right) \left(\dfrac{Q}{V}\right) \right]=[s]</script>
+<script type="math/tex">RC</script> has the units of time, and the product is known as the <strong>time constant</strong> of the circuit. <script type="math/tex">\boxed{\tau=RC}</script>
+</p>
+<p>Charging equation: <script type="math/tex">\boxed{Q=Q_0\left[1-e^{-t/\tau}\right]}</script>
+</p>
+<h3 id="discharging-a-capacitor-in-an-rc-circuit">Discharging a Capacitor in an RC Circuit</h3>
+<p>A capacitor is charged all the way to <script type="math/tex">Q_0</script> and then <strong>discharged</strong> through the resistor. When we close the switch, a current flows through the resistor and charge dissipates from the capacitor plates.</p>
+<p>Discharging equation: <script type="math/tex">\boxed{Q=Q_0e^{-t/\tau}}</script>. At <script type="math/tex">t=0</script>, <script type="math/tex">Q=Q_0e^{0/\tau}=Q_0</script>.</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+        <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+        <script src="../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
