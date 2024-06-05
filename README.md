@@ -1,7 +1,9 @@
 # Physics 2002 Notes
 A website to display my Physics 2 notes, for fellow struggling students.
 ## Markdown Pages Index
-- [Chapter 18](https://github.com/t-z-scott/physics-notes/blob/main/notes/ch.%2018%20-%20electric%20forces%20and%20electric%20fields.md)
+- [Chapter 18](https://github.com/t-z-scott/physics-notes/blob/main/docs/notes/ch18.md)
+- [Chapter 19](https://github.com/t-z-scott/physics-notes/blob/main/docs/notes/ch19.md)
+- [Chapter 20](https://github.com/t-z-scott/physics-notes/blob/main/docs/notes/ch20.md)
 ## TODO
 - [x] Fix the [inline math issue](#inline-math).
 - [x] Add an Markdown index to this README.
