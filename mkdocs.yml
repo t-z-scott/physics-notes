@@ -32,6 +32,5 @@ markdown_extensions:
 # Required to load the MathJax javascript for the mdx_math.py
 extra_javascript: ['https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML']
 
-##TODO: change once uploaded
-# repo_url: https://github.com/repo
-# repo_name: physics-notes
+repo_url: https://github.com/t-z-scott/physics-notes/tree/main
+repo_name: physics-notes
