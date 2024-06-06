@@ -4,6 +4,8 @@ A website to display my Physics 2 notes, for fellow struggling students.
 - [Chapter 18](https://github.com/t-z-scott/physics-notes/blob/main/docs/notes/ch18.md)
 - [Chapter 19](https://github.com/t-z-scott/physics-notes/blob/main/docs/notes/ch19.md)
 - [Chapter 20](https://github.com/t-z-scott/physics-notes/blob/main/docs/notes/ch20.md)
+## Generated Website Code
+The generated code for the GitHub page displayed at https://t-z-scott.github.io/physics-notes/ is in the `website-bug-testing` branch, located [here](https://github.com/t-z-scott/physics-notes/tree/website-bug-testing). What's in the main branch is the code and Markdown notes I wrote for this project.
 ## TODO
 - [x] Fix the [inline math issue](#inline-math).
 - [x] Add an Markdown index to this README.
