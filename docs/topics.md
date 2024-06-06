@@ -1,7 +1,7 @@
-<!-- # Physics Topics
-* [Home](./index.md)
-* [About](./about.md)
-* [Topics](./topics.md) -->
+---
+search:
+    exclude: true
+---
 
 # Explore Topics in Physics 2
 Here you can find my notes about different units in my Physics 2 class.

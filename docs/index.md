@@ -1,6 +1,11 @@
+---
+search:
+    exclude: true
+---
+
 # My Physics Notes
 Welcome to my physics website!
 
-* [Home](./index.md)
+* [Home (current page)](./index.md)
 * [About](./about.md)
-* [Topics](./topics.md)
+* [Index](./topics.md)
