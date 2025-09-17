@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-20-electric-circuits/","tags":["physics"]}
 ---
 
-topic: ch. 20 - electric circuits
-date: 01.27.2024 (catching up from 01.26.2024)
-
----
-
 # Electromotive Force
 Electrical energy is transferred from a power source, such as a battery, to a device, such as a light bulb. Inside a battery, a chemical reaction separates positive and negative charges, creating a [[3_senior_year!/semester2/physics/ch. 19 - potential energy#Electric Potential Difference\|potential difference]]. This potential difference is equivalent to the battery's voltage, or $emf\ (\epsilon)$ (**electromotive force**, which is a potential, not a force).
 
