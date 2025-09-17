@@ -21,4 +21,4 @@ The textbook for this class was "Cutnell and Johnson Physics, 12th edition" by Y
 - [Ch. 27 - Inference and the Wave Nature of Light](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-27-interference-and-the-wave-nature-of-light) 
 - [Ch. 29 - Particles and Waves](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-29-particles-and-waves/) 
 - [Ch. 30 - The Nature of the Atom](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-30-the-nature-of-the-atom) 
-- Ch. 31 - Nuclear Physics and Radioactivity
+- [Ch. 31 - Nuclear Physics and Radioactivity](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-31-nuclear-physics-and-radioactivity/) 
