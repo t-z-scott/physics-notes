@@ -10,12 +10,12 @@ The textbook for this class was "Cutnell and Johnson Physics, 12th edition" by Y
 - [Ch. 18 - Electric Forces and Electric Fields](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-18-electric-forces-and-electric-fields/) 
 - [Ch. 19 - Potential Energy](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-19-potential-energy/) 
 - [Ch. 20 - Electric Circuits](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-20-electric-circuits/) 
-- Ch. 21 - 
-- Ch. 22 - 
-- Ch. 24 - 
-- Ch. 25 - 
-- Ch. 26 - 
-- Ch. 27 - 
-- Ch. 29 - 
+- [Ch. 21 - Magnetic Fields](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-21-magnetic-fields) 
+- Ch. 22 - Electromagnetic Induction
+- Ch. 24 - Electromagnetic Waves
+- Ch. 25 - The Reflection of Light
+- Ch. 26 - The Refraction of Light
+- Ch. 27 - Inference and the Wave Nature of Light
+- Ch. 29 - Particles and Waves
 - Ch. 30 - The Nature of the Atom
 - Ch. 31 - Nuclear Physics and Radioactivity

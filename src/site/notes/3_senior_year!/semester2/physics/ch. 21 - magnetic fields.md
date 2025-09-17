@@ -86,7 +86,8 @@ The force is *maximum* when the field is perpendicular to the wire.
 
 # Torque on a Wire Loop
 Let's put a closed loop of wire carrying a current in a [[#Magnetic Fields|magnetic fields]]. We'll label each side of the loop 1 through 4. We can use $F=ILB\sin\theta$ ([[#Force on a Current]]) to calculate the force on each segment of the loop.
-![wire loop.png|250](/img/user/0_attachments/wire%20loop.png) Note: $F_2=F_4=0$, since $\theta=0$ for those segments.
+![wire loop.png|250](/img/user/0_attachments/wire%20loop.png)
+Note: $F_2=F_4=0$, since $\theta=0$ for those segments.
 By [[#direction of the force on a charged particle in a magnetic field (RHR-1)|RHR-1]], $F_1$ points out of the screen and $F_3$ points into the screen. Thus, the loop wants to rotate.
 
 Torque on a wire loop: $\tau_{\text{Net}}=NIAB\sin\phi$ 
