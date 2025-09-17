@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-27-interference-and-the-wave-nature-of-light/","tags":["physics"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-27-interference-and-the-wave-nature-of-light/","tags":["physics"],"noteIcon":"","created":"2024-03-27T15:59:07.447-07:00","updated":"2025-09-17T02:12:09.956-07:00"}
 ---
 
 # The Principle of Linear Superposition

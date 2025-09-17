@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-20-electric-circuits/","tags":["physics"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-20-electric-circuits/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-17T01:42:12.363-07:00"}
 ---
 
 # Electromotive Force

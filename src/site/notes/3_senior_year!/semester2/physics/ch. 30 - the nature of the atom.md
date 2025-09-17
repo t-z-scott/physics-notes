@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-30-the-nature-of-the-atom/","tags":["physics"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-30-the-nature-of-the-atom/","tags":["physics"],"noteIcon":"","created":"2024-04-15T12:03:04.832-07:00","updated":"2025-09-17T02:16:44.709-07:00"}
 ---
 
 # Rutherford Scattering

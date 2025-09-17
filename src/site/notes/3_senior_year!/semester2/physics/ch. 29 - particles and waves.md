@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-29-particles-and-waves/","tags":["physics"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-29-particles-and-waves/","tags":["physics"],"noteIcon":"","created":"2024-04-08T11:39:05.391-07:00","updated":"2025-09-17T02:14:16.156-07:00"}
 ---
 
 # blackbody

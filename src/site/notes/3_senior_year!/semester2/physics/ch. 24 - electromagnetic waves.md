@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-24-electromagnetic-waves/","tags":["physics"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-24-electromagnetic-waves/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.826-07:00","updated":"2025-09-17T01:57:07.988-07:00"}
 ---
 
 # Electromagnetic Waves

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/physics-note-site/01-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/physics-note-site/01-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-09-17T01:10:34.856-07:00","updated":"2025-09-17T02:38:24.100-07:00"}
 ---
 
 # 🏡Physics 2002 Notes
@@ -7,7 +7,7 @@ Welcome to my Physics notes! This website was created off my Physics 2002 notes 
 
 The textbook for this class was "Cutnell and Johnson Physics, 12th edition" by Young and Stadler. Credit for the slides goes to Dr. Nadra Sakr.
 
->[!info] *Navigate back to this home screen by pressing the "Digital Garden" text at the top.* 
+>[!info] *Navigate back to this home screen by pressing the "PHYS 2002" header at the top.* 
 
 ## Index
 - [Ch. 18 - Electric Forces and Electric Fields](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-18-electric-forces-and-electric-fields/) 

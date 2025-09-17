@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-25-the-reflection-of-light/","tags":["physics"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-25-the-reflection-of-light/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.872-07:00","updated":"2025-09-17T02:01:57.571-07:00"}
 ---
 
 # Wave fronts and rays

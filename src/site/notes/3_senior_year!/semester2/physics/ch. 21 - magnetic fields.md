@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-21-magnetic-fields/","tags":["physics"]}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-21-magnetic-fields/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.794-07:00","updated":"2025-09-17T01:45:37.784-07:00"}
 ---
 
 # Magnetic Fields
