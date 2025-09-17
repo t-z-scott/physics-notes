@@ -118,7 +118,8 @@ Since the emf changes sign as a function of time, so does the current. This is a
 ---
 
 # Mutual Induction
-Let's place two coils side by side. Let's connect one to an AC [[#Generators|generator]] (*primary coil*) and the other to a voltmeter (*secondary coil*). ![mutual induction.png|500](/img/user/0_attachments/mutual%20induction.png) The primary coil creates a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], and some of those field lines pass through the secondary coil. This produces a change in [[#Magnetic Flux|magnetic flux]] in the secondary coil, leading to an [[#Induced emf]]. This is called **mutual inductance**.
+Let's place two coils side by side. Let's connect one to an AC [[#Generators|generator]] (*primary coil*) and the other to a voltmeter (*secondary coil*). ![mutual induction.png|500](/img/user/0_attachments/mutual%20induction.png)
+The primary coil creates a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], and some of those field lines pass through the secondary coil. This produces a change in [[#Magnetic Flux|magnetic flux]] in the secondary coil, leading to an [[#Induced emf]]. This is called **mutual inductance**.
 
 Recall [[#Faraday's Law of Electromagnetic Induction]]. The net flux through the secondary coil is $N_s\Phi_s \varpropto I_P,\ \therefore$  the flux through the secondary coil is proportional to the current in the primary coil.
 $$ N_s\Phi_s=MI_P\rightarrow \boxed{M=\dfrac{N_s\Phi_s}{I_P}} $$
