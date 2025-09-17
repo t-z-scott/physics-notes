@@ -15,7 +15,7 @@ Tip: *Navigate back to this home screen by pressing the "Digital Garden" text at
 - [Ch. 20 - Electric Circuits](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-20-electric-circuits/) 
 - [Ch. 21 - Magnetic Fields](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-21-magnetic-fields) 
 - [Ch. 22 - Electromagnetic Induction](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-22-electromagnetic-induction/) 
-- Ch. 24 - Electromagnetic Waves
+- [Ch. 24 - Electromagnetic Waves](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-24-electromagnetic-waves/) 
 - Ch. 25 - The Reflection of Light
 - Ch. 26 - The Refraction of Light
 - Ch. 27 - Inference and the Wave Nature of Light
