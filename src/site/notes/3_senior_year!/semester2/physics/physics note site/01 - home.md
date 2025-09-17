@@ -8,3 +8,4 @@ The textbook for this class was "Cutnell and Johnson Physics, 12th edition" by Y
 
 # Index
 - [Ch. 18 - Electric Forces and Electric Fields](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-18-electric-forces-and-electric-fields/) 
+- [Ch. 19 - Potential Energy](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-19-potential-energy/) 
