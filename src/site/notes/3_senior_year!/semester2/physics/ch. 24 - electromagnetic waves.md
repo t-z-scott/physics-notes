@@ -20,7 +20,9 @@ EM waves don't need a medium to travel through. They can propagate in a vacuum.
 
 Maxwell's wave equation (**speed of an EM wave**): $\Delta*B=\mu_0J+\mu_0\epsilon_0\dfrac{dE}{dt}$. From partial differential equations, we identify the speed$^2$ of the wave as one over the coefficient on $dE/dt$. Thus we could write the wave equation as $\Delta*B=\mu_0J+\dfrac{1}{v^2}\dfrac{dE}{dt}$.
 
-So $v^2=\dfrac1{\mu_0\epsilon_0}\rightarrow \boxed{v=\dfrac1{\sqrt{\mu_0\epsilon_0}}}\rightarrow v=\dfrac1{\sqrt{(4\pi*10^{-7})(8.85*10^{-12})}}\rightarrow v=\dfrac1{3.334*10^{-9}}\rightarrow v=2.999*10^8\ m/s$. EM waves propagate at the ==speed of light==.
+Therefore: 
+$$ v^2=\dfrac1{\mu_0\epsilon_0}\rightarrow \boxed{v=\dfrac1{\sqrt{\mu_0\epsilon_0}}}\rightarrow v=\dfrac1{\sqrt{(4\pi*10^{-7})(8.85*10^{-12})}}\rightarrow v=\dfrac1{3.334*10^{-9}}\rightarrow v=2.999*10^8\ m/s $$
+EM waves propagate at the ==speed of light==.
 
 ---
 
