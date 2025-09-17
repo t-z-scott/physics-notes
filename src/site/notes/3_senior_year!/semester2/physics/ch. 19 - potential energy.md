@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"]}
 ---
 
-topic: ch. 19 - potential energy
-date: 01.27.2024 (catching up from 01.24.2024)
-
----
-
 # conservative force
 1. The work done on an object by a conservative force depends only on the object's initial and final position, and not the path taken.
 2. The net work done by a conservative force in moving an object around a closed path is *zero*.
@@ -34,7 +29,8 @@ units - $\left[\dfrac{\text{Energy}}{\text{Charge}}\right]= \left[\dfrac{J}{C}\r
 
 # Electric Potential Difference
 We can determine the value of the potential at different points in space. For example, what is the difference in electrostatic potential between two points, A and B, in an [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]]?
-![electric potential.png|250](/img/user/0_attachments/electric%20potential.png) $V_B-V_A=\dfrac{EPE_B}{q}-\dfrac{EPE_A}{q}=\dfrac{-W_{AB}}{q}$, so $\boxed{\Delta V=V_B-V_A=\dfrac{-W_{AB}}{q}}$.
+![electric potential.png|250](/img/user/0_attachments/electric%20potential.png) 
+$V_B-V_A=\dfrac{EPE_B}{q}-\dfrac{EPE_A}{q}=\dfrac{-W_{AB}}{q}$, so $\boxed{\Delta V=V_B-V_A=\dfrac{-W_{AB}}{q}}$.
 
 Let's say the charge at point A is positive. If I release it, it'll move down towards B. Since the force is down and the motion is down, ==positive work is done== on the charge, so $W_{AB}$ is positive. This means $V_B-V_A$ is negative, or $V_A>V_B$. Point A is at a higher potential than point B.
 
@@ -118,6 +114,7 @@ $\kappa=$ dielectric constant (must be greater than 1, unitless)
 | vacuum | 1 |
 | air | 1.00054 |
 | water | 80.4 |
+
 ==The larger $\kappa$ is, the more it reduces the field between the plates.== 
 
 Let's say the plates have a surface area $A$ and are separated by a distance $d$.
