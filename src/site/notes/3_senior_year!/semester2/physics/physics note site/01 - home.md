@@ -18,7 +18,7 @@ The textbook for this class was "Cutnell and Johnson Physics, 12th edition" by Y
 - [Ch. 24 - Electromagnetic Waves](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-24-electromagnetic-waves/) 
 - [Ch. 25 - The Reflection of Light](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-25-the-reflection-of-light) 
 - [Ch. 26 - The Refraction of Light](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-26-the-refraction-of-light/) 
-- Ch. 27 - Inference and the Wave Nature of Light
+- [Ch. 27 - Inference and the Wave Nature of Light](https://physics-notes.vercel.app/3-senior-year/semester2/physics/ch-27-interference-and-the-wave-nature-of-light) 
 - Ch. 29 - Particles and Waves
 - Ch. 30 - The Nature of the Atom
 - Ch. 31 - Nuclear Physics and Radioactivity
