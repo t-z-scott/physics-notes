@@ -6,7 +6,8 @@
 - **Condensation**: high density areas of air (aka **wave fronts**)
 - **Rarefaction**: low density areas of air
 
-Wave fronts propagate out away from the source, which we can draw in radial lines from the source that are perpendicular to the wave fronts. ![wave front.png|350](/img/user/0_attachments/wave%20front.png) These lines are called **wave rays**, or just **rays**. Rays point in the direction of the wave velocity. (Think of the ray as a narrow beam of light showing the direction of the light’s path.)
+Wave fronts propagate out away from the source, which we can draw in radial lines from the source that are perpendicular to the wave fronts. ![wave front.png|350](/img/user/0_attachments/wave%20front.png)
+These lines are called **wave rays**, or just **rays**. Rays point in the direction of the wave velocity. (Think of the ray as a narrow beam of light showing the direction of the light’s path.)
 
 >In plane waves, the rays are all parallel to each other.
 
