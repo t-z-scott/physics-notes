@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-31-nuclear-physics-and-radioactivity/","tags":["physics"],"noteIcon":"","created":"2024-04-24T19:08:56.597-07:00","updated":"2025-09-17T02:19:33.772-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-31-nuclear-physics-and-radioactivity/","tags":["physics"],"noteIcon":"","created":"2024-04-24T19:08:56.597-07:00","updated":"2025-09-20T19:17:56.597-07:00"}
 ---
 
 # Nuclear Structure
@@ -42,12 +42,12 @@ Most nuclei listed in the periodic table are stable, but some are not.
 
 Every proton in the nucleus feels Coulombic repulsion from every other proton, since the electrostatic force is long-ranged. But each proton and neutron only feels the strong nuclear force from its closest neighbors. To compensate for this, the more protons you add to the nucleus, an even greater number of neutrons must be number of neutrons must be added to try and balance the electrostatic force.
 
-Eventually, as more and more protons are added, no number of extra neutrons can compensate for the large electrostatic repulsion, and the nucleus breaks apart. This occurs at $Z = 83$, which is bismuth (Bi). Any element with an atomic number $Z > 83$ will be unstable and break apart over time. It will rearrange itself into a stable nuclei. This process is called **[[#Radioactivity]]**.
+Eventually, as more and more protons are added, no number of extra neutrons can compensate for the large electrostatic repulsion, and the nucleus breaks apart. This occurs at $Z = 83$, which is bismuth (Bi). Any element with an atomic number $Z > 83$ will be unstable and break apart over time. It will rearrange itself into a stable nuclei. This process is called **[[3_senior_year!/semester2/physics/ch. 31 - nuclear physics and radioactivity#Radioactivity\|radioactivity]]**.
 
 ---
 
 # Nuclear Binding Energy
-In order to separate two nucleons, we have to overcome the [[#Strong Nuclear Force and Stability|strong nuclear force]]. We refer to this as the **Nuclear Binding Energy**.
+In order to separate two nucleons, we have to overcome the [[3_senior_year!/semester2/physics/ch. 31 - nuclear physics and radioactivity#Strong Nuclear Force and Stability\|strong nuclear force]]. We refer to this as the **Nuclear Binding Energy**.
 
 To analyze this problem quantitatively, we have to use Einstein’s famous $E=mc^2$. This equation gives us the *rest mass energy*. Thus, a change in mass of a system equals a change in rest mass energy: $\Delta E=\Delta mc^2$.
 
@@ -165,5 +165,5 @@ Take the $\ln$ of both sides:
 $$ \ln\left(\frac12\right)=\ln\left(e^{\lambda T_{1/2}}\right)\rightarrow \ln(1)-\ln(2)=-\lambda T_{1/2}\rightarrow\ln(2)=\lambda T_{1/2}\rightarrow\boxed{T_{1/2}=\frac{\ln2}{\lambda}=\frac{0.693}{\lambda}} $$
 
 [^1]: Most boron atoms have 6 neutrons (81.1%), but some (18.9%) have only 5 neutrons.
-[^2]: Continued in [[#Radioactivity 2]].
+[^2]: Continued in [[3_senior_year!/semester2/physics/ch. 31 - nuclear physics and radioactivity#Radioactivity 2\|Radioactivity 2]].
 [^3]: "Neutrino" means little neutral one.

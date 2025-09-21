@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-30-the-nature-of-the-atom/","tags":["physics"],"noteIcon":"","created":"2024-04-15T12:03:04.832-07:00","updated":"2025-09-17T02:16:44.709-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-30-the-nature-of-the-atom/","tags":["physics"],"noteIcon":"","created":"2024-04-15T12:03:04.832-07:00","updated":"2025-09-20T19:16:22.414-07:00"}
 ---
 
 # Rutherford Scattering
@@ -110,7 +110,7 @@ There are different probability clouds for different quantum states.
 ---
 
 # The Pauli Exclusion Principle (PEP)
-The [[#Bohr Model of the Atom]] was derived explicitly for one electron and one proton. Will the energy levels apply to atoms with more than one electron? No!
+The [[3_senior_year!/semester2/physics/ch. 30 - the nature of the atom#Bohr Model of the Atom\|Bohr Model of the Atom]] was derived explicitly for one electron and one proton. Will the energy levels apply to atoms with more than one electron? No!
 
 Once you add more than one electron to an atom, the electrons interact with each other due to [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Coulomb's Law\|Coulombic repulsion]]. This results in additional energy terms in $E_n$.
 
@@ -186,7 +186,7 @@ It’s the outermost electrons in each atom (valence electrons) that determines 
 
 The original periodic table was arranged by a Russian chemist, Dmitri Mendeleev, during the late 1800’s. He arranged elements with similar properties into columns properties into columns → they have the same number of valence electrons.
 
-> [[#The Quantum-Mechanical Description of the Atom|Quantum Mechanics]] and [[#The Pauli Exclusion Principle (PEP)]] provide a natural explanation for why the elements are arranged as they are in the periodic table.
+> [[3_senior_year!/semester2/physics/ch. 30 - the nature of the atom#The Quantum-Mechanical Description of the Atom\|Quantum mechanics]] and [[3_senior_year!/semester2/physics/ch. 30 - the nature of the atom#The Pauli Exclusion Principle (PEP)\|the PEP]] provide a natural explanation for why the elements are arranged as they are in the periodic table.
 
 ---
 
