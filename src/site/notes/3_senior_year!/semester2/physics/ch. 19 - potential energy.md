@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-20T17:21:22.706-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-20T17:24:12.912-07:00"}
 ---
 
 # conservative force
@@ -48,7 +48,7 @@ Just like in a gravitational field, in an [[3_senior_year!/semester2/physics/ch.
 >[!note] The total mechanical energy of a system must be conserved.
 
 $$ E_{\text{Tot}}=\frac{1}{2}mv^2+\frac{1}{2}I\omega^2+mgh+\frac{1}{2}kx^2+EPE $$
-If the work done by non[[#conservative force]]s is *zero*, then $\boxed{E_{\text{Tot}_f}}=E_{\text{Tot}_o}$.
+If the work done by non[[3_senior_year!/semester2/physics/ch. 19 - potential energy#conservative force\|conservative force]]s is *zero*, then $\boxed{E_{\text{Tot}_f}}=E_{\text{Tot}_o}$.
 ### types of kinetic energy
 - $\frac{1}{2} mv^2$: linear or *translational* 
 - $\frac{1}{2}I\omega^2$: rotational
@@ -69,7 +69,7 @@ Electric potential due to a point charge: $V=k\dfrac{Q}{r}$.
 ---
 
 # Equipotential Surfaces
-The [[3_senior_year!/semester2/physics/ch. 19 - potential energy#Electric Potential of a Point Charge\|ch. 19 - potential energy#Electric Potential of a Point Charge]] is $V=k\dfrac{Q}{r}$. This means the potential is the same in every direction around the point charge at a distance $r$ away. This forms a spherical shell of radius $r$ around the charge.
+The [[3_senior_year!/semester2/physics/ch. 19 - potential energy#Electric Potential of a Point Charge\|electric potential of a point charge]] is $V=k\dfrac{Q}{r}$. This means the potential is the same in every direction around the point charge at a distance $r$ away. This forms a spherical shell of radius $r$ around the charge.
 
 Thus, the electric potential is the same everywhere on this spherical surface ($S_A$) - called an **equipotential surface**.
 >[!note] The [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field Lines\|electric field lines]] are *perpendicular* to the equipotential surface.
@@ -83,7 +83,7 @@ The net electric force does *no* work as a charge moves on a equipotential surfa
 ---
 
 # Parallel Plate Capacitor
-The positive plate is at a potential of $+9\ V$ and the negative plate is at $0\ V$. The [[#Equipotential Surfaces]] between the planes look like a parallel set of plates.
+The positive plate is at a potential of $+9\ V$ and the negative plate is at $0\ V$. The [[3_senior_year!/semester2/physics/ch. 19 - potential energy#Equipotential Surfaces\|equipotential surfaces]] between the planes look like a parallel set of plates.
 
 Let the plates be separated by a distance $\Delta s$. The [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]] is then $\dfrac{[\text{Change in voltage}]}{[\text{Change in distance}]}\rightarrow E=\dfrac{\Delta V}{\Delta s}$ (units: $\dfrac{V}{m}$). This is called the **electric field gradient**.
 
