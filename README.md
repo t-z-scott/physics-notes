@@ -1,9 +1,9 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# physics-notes
+A website to display my Physics 2 notes, for fellow struggling students. Created with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+> [!WARNING]
+> These notes were created for *me* to read and review. I have no current plans to update them in the future.
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+If a page is not understandable or readable to you, I hope you still get use out of seeing how all these topics connect.
+## Generated Website Code
+The generated code for the website displayed at https://physics-notes.vercel.app/ is in the `main` branch. The Vercel deployment can be found [here](https://vercel.com/taylors-projects-7d682aed/physics-notes).
