@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-26-the-refraction-of-light/","tags":["physics"],"noteIcon":"","created":"2024-03-20T09:13:57.972-07:00","updated":"2025-09-17T02:07:06.502-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-26-the-refraction-of-light/","tags":["physics"],"noteIcon":"","created":"2024-03-20T09:13:57.972-07:00","updated":"2025-09-20T18:27:25.990-07:00"}
 ---
 
 # The Refraction of Light
@@ -48,7 +48,7 @@ If you're standing on the shore of a lake and you want to kill a fish with a spe
 ---
 
 # Total Internal Reflection
-If a light ray strikes the surface of the water, part of the ray is refracted and part is reflected. The refracted ($\theta_R$) and reflected ($\theta_r$) angles will both change if the incident angle is changed (see [[#Snell's Law]]).
+If a light ray strikes the surface of the water, part of the ray is refracted and part is reflected. The refracted ($\theta_R$) and reflected ($\theta_r$) angles will both change if the incident angle is changed (see [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#Snell's Law\|Snell's Law]]).
 
 If a light ray emerges from a more dense medium into a less dense medium, like water to air, part of the ray is reflected and part is refracted.
 >[!note] The refracted angle is greater than the incident angle since $n_{\text{air}}<n_{\text{water}}$.
@@ -72,16 +72,16 @@ Therefore at the Brewster angle, $\boxed{\theta_b+\theta_R=90\deg}$.
 ---
 
 # Dispersion of Light
-Light passing through a prism gets bent or [[#The Refraction of Light|refracted]]. However, how much it gets bent depends on the "color" of the light, i.e. its ==wavelength==.
+Light passing through a prism gets bent or [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#The Refraction of Light\|refracted]]. However, how much it gets bent depends on the "color" of the light, i.e. its ==wavelength==.
 
-*Violet* light has a higher refractive index than *red* light, so it gets bent more, in accord with [[#Snell's Law]]. Thus a prism can separate white light into all the visible colors.
+*Violet* light has a higher refractive index than *red* light, so it gets bent more, in accord with [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#Snell's Law\|Snell's Law]]. Thus a prism can separate white light into all the visible colors.
 
 **Dispersion**: the spreading out of light into its component colors; a refraction effect responsible for rainbows
 
 ---
 
 # Lenses
-A **lens** is an optical system that [[#The Refraction of Light|refracts]] (bends) light to form an image of the object. A lens consists of two or more surfaces, at least one of which is curved.
+A **lens** is an optical system that [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#The Refraction of Light\|refracts]] (bends) light to form an image of the object. A lens consists of two or more surfaces, at least one of which is curved.
 
 **Simple lens system**: optical system with just one lens
 **Complex lens system**: optical system with more than one lens
@@ -97,7 +97,7 @@ If the parallel rays are bent toward the principal axis, they appear to converge
 ---
 
 # Formation of Images by Lenses
-[[#Lenses]] are different than [[3_senior_year!/semester2/physics/ch. 25 - the reflection of light#Images from Spherical Mirrors\|mirrors]] since the light rays pass through the lens. We'll use ray tracing again to determine the location, size, and orientation of images formed by lens. (We'll assume the lens is *thin* relative to its focal length, which ensures that both $d_i$ and $d_o$ can be measured from the center of the lens. Also, we'll assume that the object is located on the principle axis to the ==left== of the lens.)
+[[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#Lenses\|Lenses]] are different than [[3_senior_year!/semester2/physics/ch. 25 - the reflection of light#Images from Spherical Mirrors\|mirrors]] since the light rays pass through the lens. We'll use ray tracing again to determine the location, size, and orientation of images formed by lens. (We'll assume the lens is *thin* relative to its focal length, which ensures that both $d_i$ and $d_o$ can be measured from the center of the lens. Also, we'll assume that the object is located on the principle axis to the ==left== of the lens.)
 
 We'll use three principle rays to locate the image:
 1. [[3_senior_year!/semester2/physics/ch. 25 - the reflection of light#^3aeacd\|Paraxial ray]] from the object that gets refracted as if it came from $F$ (red)
@@ -122,7 +122,7 @@ We'll use three principle rays to locate the image:
 ---
 
 # The Thin Lens and Magnification Equation
-We used the [[3_senior_year!/semester2/physics/ch. 25 - the reflection of light#The Reflection of Light\|law of reflection]] to find a relationship between the focal length ($f$), the object distance ($d_0$), and the image distance ($d_i$) for mirrors. We can do the same thing for [[#Lenses]] using [[#Snell's Law]].
+We used the [[3_senior_year!/semester2/physics/ch. 25 - the reflection of light#The Reflection of Light\|law of reflection]] to find a relationship between the focal length ($f$), the object distance ($d_0$), and the image distance ($d_i$) for mirrors. We can do the same thing for [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#Lenses\|lenses]] using [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#Snell's Law\|Snell's Law]].
 
 **Thin Lens Equation**: $\boxed{\dfrac 1f=\dfrac 1{d_o}+\dfrac 1{d_i}}$ 
 **Magnification**: $\boxed{m=\dfrac{h_i}{h_o}=\dfrac{-d_i}{d_o}}$ 
@@ -145,14 +145,14 @@ This assumes the object is located to the left of the lens, and your eye is loca
 ---
 
 # Lenses in Combination
-Let's look at optical system with more than one lens - a compound [[#Lenses|lens]] system.
+Let's look at optical system with more than one lens - a compound [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#Lenses\|lens]] system.
 ![combination lens system.png](/img/user/0_attachments/combination%20lens%20system.png)
 The final image is virtual, inverted with respect to the original object, and it is greatly enlarged.
 
 ---
 
 # The Refractive Power of a Lens
-The refractive or bending power of a [[#Lenses|lens]] depends on $f$, the focal length.
+The refractive or bending power of a [[3_senior_year!/semester2/physics/ch. 26 - the refraction of light#Lenses\|lens]] depends on $f$, the focal length.
 
 **Refractive Power**: $\boxed{\dfrac 1{f[m]}}$ 
 - units - *diopters* ($D=m^{-1}$)
