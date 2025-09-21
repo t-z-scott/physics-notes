@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-24-electromagnetic-waves/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.826-07:00","updated":"2025-09-17T01:57:07.988-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-24-electromagnetic-waves/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.826-07:00","updated":"2025-09-20T18:03:36.861-07:00"}
 ---
 
 # Electromagnetic Waves
@@ -27,7 +27,7 @@ EM waves propagate at the ==speed of light==.
 ---
 
 # Electromagnetic Spectrum
-> Since [[#Electromagnetic Waves|EM waves]] move at the [[#Propagation of EM Waves|speed of light]], light itself must be an EM wave.
+> Since [[3_senior_year!/semester2/physics/ch. 24 - electromagnetic waves#Electromagnetic Waves\|EM waves]] move at the speed of light, light itself must be an EM wave.
 
 Like any wave, EM wave have a frequency, a period, and an amplitude. We know that $v=f\lambda$, and since $v=c$, we get $c=f\lambda$ for EM waves.
 - $c=$ speed of light
@@ -47,7 +47,7 @@ $$ \boxed{c=3.00*10^8} $$
 ---
 
 # Energy Carried by EM Waves
-[[#Electromagnetic Waves]] carry energy just like any other wave. An EM wave consists of both an [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric]] and [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], and [[3_senior_year!/semester2/physics/ch. 19 - potential energy#energy\|energy]] is contained in both fields.
+[[3_senior_year!/semester2/physics/ch. 24 - electromagnetic waves#Electromagnetic Waves\|EM waves]] carry energy just like any other wave. An EM wave consists of both an [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric]] and [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], and [[3_senior_year!/semester2/physics/ch. 19 - potential energy#energy\|energy]] is contained in both fields.
 
 A measure of the energy stored in an electric field is given by the **energy density**: $\text{Electrical Energy Density}=\dfrac{\text{Electrical Energy}}{\text{Volume}}=\dfrac{1}{2}\kappa\epsilon_0E^2$.
 
@@ -81,7 +81,7 @@ In terms of rms values, $S\rightarrow \bar{S}$, the *average intensity*.
 >[!quote]
 >When the observer of a wave or source of the wave (or both) is moving, the observed wave frequency is different than that emitted by the source.
 
-- [[#Electromagnetic Waves|EM waves]] also exhibit a Doppler effect, but
+- [[3_senior_year!/semester2/physics/ch. 24 - electromagnetic waves#Electromagnetic Waves\|EM waves]] also exhibit a Doppler effect, but
 	1. They don't require a medium through which to propagate, and...
 	2. Only the relative motion of the source to the observer is important, since the speed at which all EM waves move is the same, the speed of light.
 
@@ -96,9 +96,9 @@ If the EM wave, the source, and the observer all travel along the same line, the
 ---
 
 # Polarization
-[[#Electromagnetic Waves]] are transverse waves and can be **polarized**.
+[[3_senior_year!/semester2/physics/ch. 24 - electromagnetic waves#Electromagnetic Waves\|EM waves]] are transverse waves and can be **polarized**.
 
-The [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]] part of an EM wave oscillates up and down as the wave [[#Propagation of EM Waves|propagates]]. Thus the wave oscillates are perpendicular to the direction of travel and occur only in one direction. This wave is **linearly polarized**.
+The [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]] part of an EM wave oscillates up and down as the wave [[3_senior_year!/semester2/physics/ch. 24 - electromagnetic waves#Propagation of EM Waves\|propagates]]. Thus the wave oscillates are perpendicular to the direction of travel and occur only in one direction. This wave is **linearly polarized**.
 - (A vertical slit would allow the wave to pass through, since the slit is parallel to the oscillations. A horizontal slit would block the wave, since the slit in perpendicular to the oscillations.)
 - Polarized light can be *produced* with an antenna. The up and down vibrations of the electrons in the antenna produce polarized waves whose direction is determined by the orientation of it.
 

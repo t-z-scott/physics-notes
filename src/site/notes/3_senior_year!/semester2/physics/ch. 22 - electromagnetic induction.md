@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-22-electromagnetic-induction/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.810-07:00","updated":"2025-09-17T01:53:30.822-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-22-electromagnetic-induction/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.810-07:00","updated":"2025-09-20T17:58:59.638-07:00"}
 ---
 
 # Induced emf
@@ -34,7 +34,7 @@ emf: $\boxed{\epsilon=vBL}$ -- true when $v$, $B$, and $L$ are mutually perpendi
 ---
 
 ## motional emf with a complete circuit
-When we slide the bar to the right at speed $v$, an [[#Induced emf]] is set up across the bar, and an induced current will flow. The bar acts like a battery, so the current will flow counter-clockwise.
+When we slide the bar to the right at speed $v$, an [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Induced emf\|induced emf]] is set up across the bar, and an induced current will flow. The bar acts like a battery, so the current will flow counter-clockwise.
 
 Now the current in the moving bar feels a force from the magnetic field. By [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#direction of the force on a charged particle in a magnetic field (RHR-1)\|RHR-1]], this force is directed to the left. The force *opposes* the direction of motion of the rod. The rod will stop unless a larger force keeps pulling it to the right. As the rod slides, the light bulb uses energy, which comes from the force.
 
@@ -78,19 +78,19 @@ $$ \boxed{\epsilon=-N\dfrac{\Delta \Phi_M}{\Delta t}} $$
 - **Faraday's Law** (units are in volts)
 - $N=$ turns in the coil
 
-So an emf is [[#Induced emf|induced]] whenever $\Phi_M$ changes in time. Since $\Phi_M=BA\cos \phi$, we could write Faraday's Law as $\boxed{\epsilon=\dfrac{-\Delta (BA\cos \phi)}{\Delta t}}$.
+So an emf is [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Induced emf\|induced]] whenever $\Phi_M$ changes in time. Since $\Phi_M=BA\cos \phi$, we could write Faraday's Law as $\boxed{\epsilon=\dfrac{-\Delta (BA\cos \phi)}{\Delta t}}$.
 >Therefore, if $B$, $A$, or $\phi$ change in time, then an emf is induced.
 
 ---
 
 # Lenz's Law
-Remember [[#Faraday's Law of Electromagnetic Induction]].
+Remember [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Faraday's Law of Electromagnetic Induction\|Faraday's Law]].
 
 A changing [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]] can produce a current. To get the *direction*, we must consider two magnetic fields:
 1. the original one that produced the induced current
 2. the field created by the induced current itself
 
->[!quote] **Lenz's Law**: The induced emf resulting from a change in [[#Magnetic Flux]] leads to an induced current, which produces a magnetic field to oppose the change in flux.
+>[!quote] **Lenz's Law**: The induced emf resulting from a change in [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Magnetic Flux\|magnetic flux]] leads to an induced current, which produces a magnetic field to oppose the change in flux.
 
 - If the original field is *increasing*, then the induced field must point in the *opposite* direction.
 - If the original field is *decreasing*, then the induced field must point in the *same* direction.
@@ -100,7 +100,7 @@ A changing [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic 
 # Generators
 Running a current through a loop of wire in a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]] causes it to rotate. The reverse is also true - rotating a conducting loop in a magnetic field produces a current.
 
-The [[#Motional emf]] was derived from $v$ being perpendicular to $B$, but as the loop rotates, the angle between $v$ and $B$ changes. Thus, the true motional emf is a function of angle: $\boxed{\epsilon=vBL\sin\theta}$.
+The [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Motional emf\|motional emf]] was derived from $v$ being perpendicular to $B$, but as the loop rotates, the angle between $v$ and $B$ changes. Thus, the true motional emf is a function of angle: $\boxed{\epsilon=vBL\sin\theta}$.
 
 Since the loop's motion is rotational, it's convenient to express $v$ and $\theta$ in terms of angular variables: $v=r\omega$ and $\theta=\omega t$.
 
@@ -118,10 +118,10 @@ Since the emf changes sign as a function of time, so does the current. This is a
 ---
 
 # Mutual Induction
-Let's place two coils side by side. Let's connect one to an AC [[#Generators|generator]] (*primary coil*) and the other to a voltmeter (*secondary coil*). ![mutual induction.png|500](/img/user/0_attachments/mutual%20induction.png)
-The primary coil creates a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], and some of those field lines pass through the secondary coil. This produces a change in [[#Magnetic Flux|magnetic flux]] in the secondary coil, leading to an [[#Induced emf]]. This is called **mutual inductance**.
+Let's place two coils side by side. Let's connect one to an AC [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Generators\|generator]] (*primary coil*) and the other to a voltmeter (*secondary coil*). ![mutual induction.png|500](/img/user/0_attachments/mutual%20induction.png)
+The primary coil creates a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], and some of those field lines pass through the secondary coil. This produces a change in [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Magnetic Flux\|magnetic flux]] in the secondary coil, leading to an [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Induced emf\|induced emf]]. This is called **mutual inductance**.
 
-Recall [[#Faraday's Law of Electromagnetic Induction]]. The net flux through the secondary coil is $N_s\Phi_s \varpropto I_P,\ \therefore$  the flux through the secondary coil is proportional to the current in the primary coil.
+Recall [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Faraday's Law of Electromagnetic Induction\|Faraday's Law]]. The net flux through the secondary coil is $N_s\Phi_s \varpropto I_P,\ \therefore$  the flux through the secondary coil is proportional to the current in the primary coil.
 $$ N_s\Phi_s=MI_P\rightarrow \boxed{M=\dfrac{N_s\Phi_s}{I_P}} $$
 $M=$ mutual inductance. Substitute this into Faraday's Law: $\epsilon_s=-N\dfrac{\Delta \Phi_s}{\Delta t}=-\dfrac{\Delta (N_s\Phi_s)}{\Delta t}=-\dfrac{\Delta (MI_P)}{\Delta t}=-M\dfrac{\Delta I_P}{\Delta t}\rightarrow \epsilon_s=-M\dfrac{\Delta I_P}{\Delta t}$. This proves that induced emf in the secondary coil depends on changing current in the primary coil.
 - units - $\left[ \dfrac{V*s}{A} \right]\rightarrow [\text{Henry}]\rightarrow [H]$
@@ -129,17 +129,17 @@ $M=$ mutual inductance. Substitute this into Faraday's Law: $\epsilon_s=-N\dfrac
 ---
 
 # Self Inductance
-Consider one coil connected to an AC [[#Generators|generator]]. The AC current produces a changing [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], which produces a change in [[#Magnetic Flux]] within the coil, which leads to an [[#Induced emf]] in the coil. This process is called **self induction**.
+Consider one coil connected to an AC [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Generators\|generator]]. The AC current produces a changing [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], which produces a change in [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Magnetic Flux\|magnetic flux]] within the coil, which leads to an [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Induced emf\|induced emf]] in the coil. This process is called **self induction**.
 
 $\Phi=$ flux though one loop of the coil // $N\Phi=$ net flux
 $\Phi \varpropto B \varpropto I$, so $N\Phi \varpropto I$. Making it an equality, $N\Phi=LI$.
 $$ \boxed{L=\dfrac{N\Phi}{I}} $$
-Using [[#Faraday's Law of Electromagnetic Induction]] like we did for [[#Mutual Induction]], we find that $\boxed{\epsilon=-L\dfrac{\Delta I}{\Delta t}}$.
+Using [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Faraday's Law of Electromagnetic Induction\|Faraday's Law]] like we did for [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Mutual Induction\|mutual induction]], we find that $\boxed{\epsilon=-L\dfrac{\Delta I}{\Delta t}}$.
 
 ---
 
 # Transformers
-We can use one coil to [[#Induced emf|induce an emf]] (voltage) in another coil by [[#Mutual Induction]].
+We can use one coil to [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Induced emf\|induce an emf]] (voltage) in another coil by [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Mutual Induction\|mutual induction]].
 ![transformer.png](/img/user/0_attachments/transformer.png) 
 The induced emf in the secondary coil is proportional to the turns ratio: $\boxed{\dfrac{N_s}{N_p}}$. Thus, the more turns you have in the secondary coil, the higher the induced emf.
 - $N_s=$ num of turns in secondary coil
