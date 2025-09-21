@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-21-magnetic-fields/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.794-07:00","updated":"2025-09-17T01:45:37.784-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-21-magnetic-fields/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.794-07:00","updated":"2025-09-20T17:48:58.235-07:00"}
 ---
 
 # Magnetic Fields
@@ -20,7 +20,7 @@ A compass, like a positive test charge, can be used to determine what [[3_senior
 ---
 
 # Magnetic Force
-Charges feel forces in electric fields. Magnets feel forces in [[#Magnetic Fields]] under certain conditions:
+Charges feel forces in electric fields. Magnets feel forces in [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic fields]] under certain conditions:
 1. The charge must be moving, i.e. it has a nonzero velocity.
 2. The charge's velocity must have a component that is perpendicular to the magnetic field.
 
@@ -42,7 +42,7 @@ We also use another unit of magnetic field, the *gauss*: $1 \text{ gauss }=1*10^
 # Motion of a charged particle in electric and magnetic fields
 The force on a charged particle particle in an [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]] is directed along the field, either parallel or antiparallel - $F=qE$. The positively charged particle feels a force upward due to $E$.
 
-The force on a charged particle in a [[#Magnetic Fields|magnetic field]] is always perpendicular to the velocity and field - $F=qvB\sin \theta$.
+The force on a charged particle in a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]] is always perpendicular to the velocity and field - $F=qvB\sin \theta$.
 
 By adjusting the magnitude of $E$ and $B$, I can find a combination where $F_M=F_E$, such that the net force on the charge is zero: the moves through the field with no deflection at all. This is a **velocity selector** - $\boxed{v=E/B}$.
 
@@ -66,14 +66,14 @@ radius: $\boxed{r=\dfrac{mv}{qB}}$
 # The Mass Spectrometer
 Ionized particles are accelerated by a potential difference $V$. By conservation of energy, we know that this potential energy goes into the kinetic energy of the particle - $\Delta KE=\Delta EPE \rightarrow \frac{1}{2}mv^2=qV$. Solve this for speed:
 $$ v=\sqrt{\dfrac{2qV}{m}} $$
-This is the speed that the particle has when it enters the magnetic field. It then gets bent into a circular path whose radius is given by the [[#Work done by the fields|previous equation]].
+This is the speed that the particle has when it enters the magnetic field. It then gets bent into a circular path whose radius is given by the [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Work done by the fields\|previous equation]].
 
 Therefore, the mass of the deflected ion is $\boxed{m=\left( \dfrac{qr^2}{2V} \right)B^2}$. By changing $B$, we can select a certain mass for a given radius.
 
 ---
 
 # Force on a Current
-Moving charges in a magnetic field experience a force. A current is just a collection of moving charges, so a current will also feel a force in a magnetic field. [[#direction of the force on a charged particle in a magnetic field (RHR-1)|RHR-1]] is used to find the direction of the force on a charge moving in a magnetic field, or to find the direction of the force on a current carrying wire in a magnetic field.
+Moving charges in a magnetic field experience a force. A current is just a collection of moving charges, so a current will also feel a force in a magnetic field. [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#direction of the force on a charged particle in a magnetic field (RHR-1)\|RHR-1]] is used to find the direction of the force on a charge moving in a magnetic field, or to find the direction of the force on a current carrying wire in a magnetic field.
 
 Force on a current: $\boxed{F=ILB\sin\theta}$.
 - $\theta=$ angle between the current and the magnetic field
@@ -85,16 +85,16 @@ The force is *maximum* when the field is perpendicular to the wire.
 ---
 
 # Torque on a Wire Loop
-Let's put a closed loop of wire carrying a current in a [[#Magnetic Fields|magnetic fields]]. We'll label each side of the loop 1 through 4. We can use $F=ILB\sin\theta$ ([[#Force on a Current]]) to calculate the force on each segment of the loop.
+Let's put a closed loop of wire carrying a current in a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]]. We'll label each side of the loop 1 through 4. We can use $F=ILB\sin\theta$ ([[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Force on a Current\|force on a current]]) to calculate the force on each segment of the loop.
 ![wire loop.png|250](/img/user/0_attachments/wire%20loop.png)
 Note: $F_2=F_4=0$, since $\theta=0$ for those segments.
-By [[#direction of the force on a charged particle in a magnetic field (RHR-1)|RHR-1]], $F_1$ points out of the screen and $F_3$ points into the screen. Thus, the loop wants to rotate.
+By [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#direction of the force on a charged particle in a magnetic field (RHR-1)\|RHR-1]], $F_1$ points out of the screen and $F_3$ points into the screen. Thus, the loop wants to rotate.
 
 Torque on a wire loop: $\tau_{\text{Net}}=NIAB\sin\phi$ 
 - $N=$ the number of loops of wire
 - $I=$ current
 - $A=$ cross-sectional area of the loop
-- $B=$ [[#Magnetic Fields|magnetic field]] 
+- $B=$ [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]] 
 - $\phi=$ the angle between the magnetic field and the <u>normal</u> to the loop's surface
 
 The net torque depends on the quantity $NIA$, which is the **magnetic moment** of the loop.
@@ -107,7 +107,7 @@ $\tau_{\text{Net}}=NIAB\sin\phi=\mu B\sin\phi$, where $\boxed{\mu=NIA}$ is the m
 ---
 
 # Magnetic Fields Produced by Currents
-Moving charges experience a force in [[#Magnetic Fields|magnetic fields]]. Currents also [[#Force on a Current|feel a force]] in a magnetic field.
+Moving charges experience a force in [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic fields]]. Currents also [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Force on a Current\|feel a force]] in a magnetic field.
 >Electric currents create magnetic fields.
 >Or: moving charges create magnetic fields.
 
@@ -135,7 +135,7 @@ Magnetic field at the center of the loop: $\boxed{B=N\dfrac{\mu_0I}{2R}}$
 
 ## solenoid
 **Solenoid**: current-carrying wire bent into a helix (*coil*)
-- Use [[#direction of a magnetic field around a closed loop of current-carrying wire (RHR-3)|RHR-3]] to find the direction of the [[#Magnetic Fields|magnetic field]].
+- Use [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#direction of a magnetic field around a closed loop of current-carrying wire (RHR-3)\|RHR-3]] to find the direction of the [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]].
 
 Magnetic field inside a solenoid: $\boxed{B=\mu_0In}$ 
 - $n=N/L=$ number of turns per unit length (turn density)

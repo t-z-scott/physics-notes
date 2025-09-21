@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-20-electric-circuits/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-17T01:42:12.363-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-20-electric-circuits/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-20T17:43:04.691-07:00"}
 ---
 
 # Electromotive Force
@@ -29,7 +29,7 @@ Ohm's Law: $\boxed{V=IR}$
 ---
 
 # Resistivity
-The electrical [[#Ohm's Law|resistance]] of a conductor depends on its shape. Longer wires have more resistance; fatter wires have less. Thus, $R \varpropto \frac{L}{A}$.
+The electrical [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Ohm's Law\|resistance]] of a conductor depends on its shape. Longer wires have more resistance; fatter wires have less. Thus, $R \varpropto \frac{L}{A}$.
 
 Resistivity: $\boxed{R=\rho \dfrac{L}{A}}$ 
 - $\rho=$ **electrical resistivity** (proportionality constant)
@@ -132,7 +132,7 @@ Capacitors connected in [[#Series Circuits|series]]: $\boxed{ \dfrac{1}{C_{\text
 ---
 
 # RC Circuits
-**RC Circuit**: a resistor is in [[#Series Circuits|series]] with a [[#Capacitors in Series and Parallel|capacitor]]. When the switch closes, charge builds up gradually on the capacitor plates as the current flows and approaches an equilibrium value ($Q_0$). If the capacitor is initially uncharged at $t=0$, then the charge on the capacitor at some later time $t$ is $\boxed{Q=Q_0\left[1-e^{-t/RC}\right]}$.
+**RC Circuit**: a resistor is in [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Series Circuits\|series]] with a [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Capacitors in Series and Parallel\|capacitor]]. When the switch closes, charge builds up gradually on the capacitor plates as the current flows and approaches an equilibrium value ($Q_0$). If the capacitor is initially uncharged at $t=0$, then the charge on the capacitor at some later time $t$ is $\boxed{Q=Q_0\left[1-e^{-t/RC}\right]}$.
 
 If $t=0$, then $Q=Q_0\left[1-e^{0/RC}\right]=Q_0[1-1]=0$. We can get the voltage across the capacitor at any time by dividing by the charge by the capacitance, since $V=Q/C$: $\boxed{V=V_0\left[1-e^{-t/RC}\right]}$.
 ## RC
