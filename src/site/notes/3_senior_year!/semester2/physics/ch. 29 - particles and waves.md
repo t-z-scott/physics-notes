@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-29-particles-and-waves/","tags":["physics"],"noteIcon":"","created":"2024-04-08T11:39:05.391-07:00","updated":"2025-09-17T02:14:16.156-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-29-particles-and-waves/","tags":["physics"],"noteIcon":"","created":"2024-04-08T11:39:05.391-07:00","updated":"2025-09-20T19:05:10.726-07:00"}
 ---
 
 # blackbody
@@ -35,7 +35,7 @@ Einstein worked off of this and found that the energy of light wasn't equally di
 ---
 
 # The Photoelectric Effect
-From [[#planck's assumption]], we find that we can calculate the frequency or wavelength of light from its energy. Also, the greater the intensity of light, the more photons it contains, but each photon's energy is still $E=hf$.
+From [[3_senior_year!/semester2/physics/ch. 29 - particles and waves#planck's assumption\|Planck's Assumption]], we find that we can calculate the frequency or wavelength of light from its energy. Also, the greater the intensity of light, the more photons it contains, but each photon's energy is still .
 
 **Photoelectric Effect**: When light shines on a metal plate, some of the electrons in the metal get ejected from its surface and then are accelerated by a potential difference. This results in a current flow in the circuit as shown.
 1. Only light with a frequency above some minimum value, $f_0$ (the **threshold frequency**), will result in electrons being ejected -- regardless of the light's intensity.
@@ -55,7 +55,7 @@ During the effect, a photon of light ($f>f_0$) with energy $hf$ strikes the meta
 
 By conservation of energy, the following relationship must be true:
 $\text{The photon energy – The binding energy = KE of the ejected electrons}$
-or $\boxed{hf-W_0=KE_{e-}}$ (Einstein equation for [[#The Photoelectric Effect]]). 
+or $\boxed{hf-W_0=KE_{e-}}$ (Einstein equation for [[3_senior_year!/semester2/physics/ch. 29 - particles and waves#The Photoelectric Effect\|the photoelectric effect]]). 
 
 ---
 
@@ -92,7 +92,7 @@ The largest shift occurs when $\theta=180\degree$. The incident photon comes in,
 # Particle Waves - de Broglie
 Working as a graduate student in 1923, de Broglie hypothesized that if light waves can have particle-like properties, then maybe particles (i.e. electrons) can have wave-like properties. This was a very radical assumption, since at this time, there was no evidence to support this hypothesis.
 
-From Einstein’s relativity equations, it is found that the [[#The Momentum of a Photon and the Compton Effect|momentum of a photon]] is $p=\dfrac{hf}{c}=\dfrac h{\lambda}$. de Broglie rewrote this as $\boxed{\lambda=\dfrac hp}$ where $p$ is the relativistic momentum. This is known as the **de Broglie wavelength** of a particle. This allows us to calculate the wavelength for any object with nonzero momentum.
+From Einstein’s relativity equations, it is found that the [[3_senior_year!/semester2/physics/ch. 29 - particles and waves#The Momentum of a Photon and the Compton Effect\|momentum of a photon]] is $p=\dfrac{hf}{c}=\dfrac h{\lambda}$. de Broglie rewrote this as $\boxed{\lambda=\dfrac hp}$ where $p$ is the relativistic momentum. This is known as the **de Broglie wavelength** of a particle. This allows us to calculate the wavelength for any object with nonzero momentum.
 ## particle-wave duality of light
 Now let’s repeat [[3_senior_year!/semester2/physics/ch. 27 - interference and the wave nature of light#Young's Double Slit Experiment\|Young’s double-slit experiment]], but this time let's shoot electrons (particles) at the slits instead of light. We might expect the screen to have two bright fringes, one directly behind each slit. What we actually see is alternating dark and bright fringes. In other words, the electrons have ==acted like waves== and interfered with each other to produce the classic interference pattern!
 
@@ -110,7 +110,7 @@ We know that the bright fringes on the screen from the double-slit experiment wi
 ![heisenburg uncertainty graph.png](/img/user/0_attachments/heisenburg%20uncertainty%20graph.png)
 The electrons enter the slit with momentum $p_x$. One they pass through, some on them must gain momentum in the $y$-direction. The maximum any electron could gain would be $\Delta p_y$. This represents the *uncertainty* in the momentum in the $y$-direction.
 
-From single-slit diffraction with light and [[#Particle Waves - de Broglie|de Broglie]], $\Delta p_y=\dfrac hW$. This tells us that the smaller $W$ (width of the aperture), the more accurately we know the $y$-value of the electron as it passes through the slit. But the smaller $W$ is, the greater $\Delta p_y$ becomes. Thus $W=\Delta y$. Plugging into this equation, we find that $\boxed{\Delta y \Delta p_y \ge\dfrac {\bar h}2}$ ($\bar h=\dfrac h{2\pi}$). This is the **Heisenberg Uncertainty Principle (HUP) for Momentum and Position**.
+From single-slit diffraction with light and [[3_senior_year!/semester2/physics/ch. 29 - particles and waves#Particle Waves - de Broglie\|de Broglie]], $\Delta p_y=\dfrac hW$. This tells us that the smaller $W$ (width of the aperture), the more accurately we know the $y$-value of the electron as it passes through the slit. But the smaller $W$ is, the greater $\Delta p_y$ becomes. Thus $W=\Delta y$. Plugging into this equation, we find that $\boxed{\Delta y \Delta p_y \ge\dfrac {\bar h}2}$ ($\bar h=\dfrac h{2\pi}$). This is the **Heisenberg Uncertainty Principle (HUP) for Momentum and Position**.
 >[!quote] It is impossible to specify precisely the position and momentum of a particle at the same time.
 
 Another way to write the HUP is the following $\boxed{\Delta E\Delta t \ge \dfrac{\bar h}2}$. This is the **Heisenberg Uncertainty Principle for Energy and Time**.
