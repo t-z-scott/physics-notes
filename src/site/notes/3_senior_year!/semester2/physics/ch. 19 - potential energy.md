@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-17T01:39:18.411-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-20T17:19:23.459-07:00"}
 ---
 
 # conservative force
@@ -9,7 +9,7 @@
 ---
 
 # Potential Energy
-The [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Charged Objects and the Electrical Force\|electric force]], like gravity, is a [[#conservative force]].
+The [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Charged Objects and the Electrical Force\|electric force]], like gravity, is a [[3_senior_year!/semester2/physics/ch. 19 - potential energy#conservative force\|conservative force]].
 
 Let's place a positive point charge $q$ in a uniform electric field and let it move from the positive plate to the negative plate. ==How much work== is done by the field in moving the charge?
 \*Remember, $W=F*d$, where $F$ is the component of the constant force along the direction of the motion. Here, $F=qE$, so $W_{AB}=qE(y_f-y_o)=qE\Delta y=\Delta EPE$.
@@ -44,7 +44,7 @@ $1.5V=1.5\dfrac{J}{C} \rightarrow$ The battery supplies 1.5 Joules of energy for
 ## energy
 If we accelerate an electron form rest through a potential difference of 1 Volt, then it would gain *1 electron volt* ($eV$) of **kinetic energy**. Energy is usually expressed in Joules: $\boxed{1eV=1.602*10^{-19}J}$ 
 ## energy conversion
-Just like in a gravitational field, in an [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]], potential energy ($PE$) can be converted into kinetic energy ($KE$). For example, if we bring a positive charge close to a fixed, positive point charge, the repulsive force on it gets bigger and bigger. We have to do [[#work]] on the charge to move it closer, which increases its $PE$. When we release the charge, the stored electric potential energy ($EPE$) is converted into $KE$!
+Just like in a gravitational field, in an [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]], potential energy ($PE$) can be converted into kinetic energy ($KE$). For example, if we bring a positive charge close to a fixed, positive point charge, the repulsive force on it gets bigger and bigger. We have to do [[3_senior_year!/semester2/physics/ch. 19 - potential energy#work\|work]] on the charge to move it closer, which increases its $PE$. When we release the charge, the stored electric potential energy ($EPE$) is converted into $KE$!
 >[!note] The total mechanical energy of a system must be conserved.
 
 $$ E_{\text{Tot}}=\frac{1}{2}mv^2+\frac{1}{2}I\omega^2+mgh+\frac{1}{2}kx^2+EPE $$
@@ -59,9 +59,9 @@ If the work done by non[[#conservative force]]s is *zero*, then $\boxed{E_{\text
 ---
 
 # Electric Potential of a Point Charge
-An electric [[#Potential Energy|potential]] exists around charges. What is the form of the potential for a point charge?
+An electric [[3_senior_year!/semester2/physics/ch. 19 - potential energy#Potential Energy\|potential]] exists around charges. What is the form of the potential for a point charge?
 
-If we place a positive test charge near a positive fixed point charge, the [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]] created by the point charge does [[#work]] on the test charge and moves it to the *right*.
+If we place a positive test charge near a positive fixed point charge, the [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]] created by the point charge does [[3_senior_year!/semester2/physics/ch. 19 - potential energy#work\|work]] on the test charge and moves it to the *right*.
 
 The work done on the field when moving the charge is $W_{AB}=k\dfrac{qQ}{r_A}-k\dfrac{qQ}{r_B}$.
 Electric potential due to a point charge: $V=k\dfrac{Q}{r}$.
