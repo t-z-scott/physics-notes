@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-20T17:19:23.459-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.763-07:00","updated":"2025-09-20T17:21:22.706-07:00"}
 ---
 
 # conservative force
@@ -69,7 +69,7 @@ Electric potential due to a point charge: $V=k\dfrac{Q}{r}$.
 ---
 
 # Equipotential Surfaces
-The [[#Electric Potential of a Point Charge]] is $V=k\dfrac{Q}{r}$. This means the potential is the same in every direction around the point charge at a distance $r$ away. This forms a spherical shell of radius $r$ around the charge.
+The [[3_senior_year!/semester2/physics/ch. 19 - potential energy#Electric Potential of a Point Charge\|ch. 19 - potential energy#Electric Potential of a Point Charge]] is $V=k\dfrac{Q}{r}$. This means the potential is the same in every direction around the point charge at a distance $r$ away. This forms a spherical shell of radius $r$ around the charge.
 
 Thus, the electric potential is the same everywhere on this spherical surface ($S_A$) - called an **equipotential surface**.
 >[!note] The [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field Lines\|electric field lines]] are *perpendicular* to the equipotential surface.
