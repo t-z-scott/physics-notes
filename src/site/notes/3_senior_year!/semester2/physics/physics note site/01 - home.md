@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/physics-note-site/01-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-23T00:28:53.771-07:00","updated":"2025-09-20T19:30:55.000-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/physics-note-site/01-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-23T00:28:53.771-07:00","updated":"2025-11-24T23:45:20.205-08:00"}
 ---
 
 # 🏡Physics 2002 Notes
@@ -26,3 +26,5 @@ The textbook for this class was "Cutnell and Johnson Physics, 12th edition" by Y
 
 >[!warning]+
 >These notes were created by me *for me to read and review*. There may be a section or page that you don't understand.
+
+For more sites like this, visit the [Obsidian Garden Gallery](https://vaults.obsidian-community.com/).
