@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-26-the-refraction-of-light/","tags":["physics"],"noteIcon":"","created":"2024-03-20T09:13:57.972-07:00","updated":"2025-09-20T18:27:25.990-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-26-the-refraction-of-light/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.324-07:00","updated":"2025-09-20T18:27:25.000-07:00"}
 ---
 
 # The Refraction of Light

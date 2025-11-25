@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/physics-note-site/01-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-09-17T01:10:34.856-07:00","updated":"2025-09-20T19:30:55.926-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/physics-note-site/01-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-23T00:28:53.771-07:00","updated":"2025-09-20T19:30:55.000-07:00"}
 ---
 
 # 🏡Physics 2002 Notes

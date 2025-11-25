@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-31-nuclear-physics-and-radioactivity/","tags":["physics"],"noteIcon":"","created":"2024-04-24T19:08:56.597-07:00","updated":"2025-09-20T19:17:56.597-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-31-nuclear-physics-and-radioactivity/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.235-07:00","updated":"2025-09-20T19:17:56.000-07:00"}
 ---
 
 # Nuclear Structure

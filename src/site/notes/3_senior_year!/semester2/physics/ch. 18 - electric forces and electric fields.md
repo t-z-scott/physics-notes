@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-18-electric-forces-and-electric-fields/","tags":["physics"],"noteIcon":"","created":"2024-03-14T14:54:25.747-07:00","updated":"2025-09-17T01:29:39.084-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-18-electric-forces-and-electric-fields/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.358-07:00","updated":"2025-09-17T01:29:39.000-07:00"}
 ---
 
 # Electricity
