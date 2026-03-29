@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.358-07:00","updated":"2025-09-20T17:24:12.000-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-19-potential-energy/","tags":["physics"],"noteIcon":"","created":"2026-01-06T22:06:49.538-08:00","updated":"2025-09-20T17:24:12.000-07:00","dg-note-properties":{"tags":"physics","aliases":"potential energy"}}
 ---
 
 # conservative force
@@ -29,7 +29,7 @@ units - $\left[\dfrac{\text{Energy}}{\text{Charge}}\right]= \left[\dfrac{J}{C}\r
 
 # Electric Potential Difference
 We can determine the value of the potential at different points in space. For example, what is the difference in electrostatic potential between two points, A and B, in an [[3_senior_year!/semester2/physics/ch. 18 - electric forces and electric fields#Electric Field\|electric field]]?
-![electric potential.png|250](/img/user/0_attachments/electric%20potential.png) 
+![electric potential.png\|250](/img/user/0_attachments/electric%20potential.png) 
 $V_B-V_A=\dfrac{EPE_B}{q}-\dfrac{EPE_A}{q}=\dfrac{-W_{AB}}{q}$, so $\boxed{\Delta V=V_B-V_A=\dfrac{-W_{AB}}{q}}$.
 
 Let's say the charge at point A is positive. If I release it, it'll move down towards B. Since the force is down and the motion is down, ==positive work is done== on the charge, so $W_{AB}$ is positive. This means $V_B-V_A$ is negative, or $V_A>V_B$. Point A is at a higher potential than point B.

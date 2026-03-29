@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-20-electric-circuits/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.355-07:00","updated":"2025-09-20T17:43:04.000-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-20-electric-circuits/","tags":["physics"],"noteIcon":"","created":"2026-01-06T22:06:49.535-08:00","updated":"2025-09-20T17:43:04.000-07:00","dg-note-properties":{"tags":"physics"}}
 ---
 
 # Electromotive Force
@@ -97,7 +97,7 @@ Net resistance (equivalent resistance): $\boxed{ \dfrac{1}{R_{\text{eq}}}=\dfrac
 ---
 
 # Series and Parallel Circuits
-If resistors are hooked up both in [[#Series Circuits|series]] and in [[#Parallel Circuits|parallel]] in the same circuit, you must combine resistors to find $R_{\text{eq}}$.
+If resistors are hooked up both in [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Series Circuits\|series]] and in [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Parallel Circuits\|parallel]] in the same circuit, you must combine resistors to find $R_{\text{eq}}$.
 
 ---
 
@@ -106,7 +106,7 @@ Batteries and generators have some resistance as well. This is called **internal
 
 Terminal voltage: $\boxed{V_T=V-V_r}$ 
 ## Kirchhoff's Rules
-In many circuits, applying the [[#Series Circuits|series]] or [[#Parallel Circuits|parallel]] methods is not sufficient to analyze them. There are two other rules we can use called **Kirchhoff's Rules**.
+In many circuits, applying the [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Series Circuits\|series]] or [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Parallel Circuits\|parallel]] methods is not sufficient to analyze them. There are two other rules we can use called **Kirchhoff's Rules**.
 ### 1. Junction Rule
 Current into a junction has to equal current out, based on conservation of charge.
 ### 2. Loop Rule
@@ -126,8 +126,8 @@ Inside an ammeter, a small resistor ($r_s$) is wired in parallel with the galvan
 ---
 
 # Capacitors in Series and Parallel
-Capacitors connected in [[#Parallel Circuits|parallel]]: $\boxed{ C_{\text{eq}}=C_1+C_2+\dots+C_n }$ 
-Capacitors connected in [[#Series Circuits|series]]: $\boxed{ \dfrac{1}{C_{\text{eq}}}=\dfrac{1}{C_1}+\dfrac{1}{C_2}+\dots+\dfrac{1}{C_n} }$ 
+Capacitors connected in [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Parallel Circuits\|parallel]]: $\boxed{ C_{\text{eq}}=C_1+C_2+\dots+C_n }$ 
+Capacitors connected in [[3_senior_year!/semester2/physics/ch. 20 - electric circuits#Series Circuits\|series]]: $\boxed{ \dfrac{1}{C_{\text{eq}}}=\dfrac{1}{C_1}+\dfrac{1}{C_2}+\dots+\dfrac{1}{C_n} }$ 
 
 ---
 

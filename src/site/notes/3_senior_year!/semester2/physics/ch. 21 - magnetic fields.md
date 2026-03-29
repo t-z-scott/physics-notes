@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-21-magnetic-fields/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.342-07:00","updated":"2025-09-20T17:48:58.000-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-21-magnetic-fields/","tags":["physics"],"noteIcon":"","created":"2026-01-06T22:06:49.533-08:00","updated":"2025-09-20T17:48:58.000-07:00","dg-note-properties":{"tags":"physics"}}
 ---
 
 # Magnetic Fields
@@ -86,7 +86,7 @@ The force is *maximum* when the field is perpendicular to the wire.
 
 # Torque on a Wire Loop
 Let's put a closed loop of wire carrying a current in a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]]. We'll label each side of the loop 1 through 4. We can use $F=ILB\sin\theta$ ([[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Force on a Current\|force on a current]]) to calculate the force on each segment of the loop.
-![wire loop.png|250](/img/user/0_attachments/wire%20loop.png)
+![wire loop.png\|250](/img/user/0_attachments/wire%20loop.png)
 Note: $F_2=F_4=0$, since $\theta=0$ for those segments.
 By [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#direction of the force on a charged particle in a magnetic field (RHR-1)\|RHR-1]], $F_1$ points out of the screen and $F_3$ points into the screen. Thus, the loop wants to rotate.
 
@@ -125,7 +125,7 @@ Magnetic field created by a long straight wire: $\boxed{B=\dfrac{\mu_0I}{2\pi r}
 - $\mu_0=$ permeability of free space: $\boxed{4\pi*10^{-7}\dfrac{T*m}{A}}$  
 
 ## direction of a magnetic field around a closed loop of current-carrying wire (RHR-3)
-![magnetic field around a loop.png|200](/img/user/0_attachments/magnetic%20field%20around%20a%20loop.png) 
+![magnetic field around a loop.png\|200](/img/user/0_attachments/magnetic%20field%20around%20a%20loop.png) 
 
 Magnetic field at the center of the loop: $\boxed{B=N\dfrac{\mu_0I}{2R}}$ 
 
@@ -141,6 +141,6 @@ Magnetic field inside a solenoid: $\boxed{B=\mu_0In}$
 - $n=N/L=$ number of turns per unit length (turn density)
 >[!note]
 >The field line from a solenoid look just like the field lines created by a bar magnet.
->![solenoid magnetic field.png|300](/img/user/0_attachments/solenoid%20magnetic%20field.png) 
+>![solenoid magnetic field.png\|300](/img/user/0_attachments/solenoid%20magnetic%20field.png) 
 
 Field lines emerge from a North pole and converge on a South pole. This is called an **electromagnet**. We can switch the direction of the field by switching the direction of the current.

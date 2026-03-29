@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-27-interference-and-the-wave-nature-of-light/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.250-07:00","updated":"2025-09-20T19:00:03.000-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-27-interference-and-the-wave-nature-of-light/","tags":["physics"],"noteIcon":"","created":"2026-01-06T22:06:49.523-08:00","updated":"2025-09-20T19:00:03.000-07:00","dg-note-properties":{"tags":"physics"}}
 ---
 
 # The Principle of Linear Superposition
@@ -113,7 +113,7 @@ If $\theta<\theta_{\text{min}}$, then we won't be able to resolve the two object
 **Diffraction grating**: made to repeat [[3_senior_year!/semester2/physics/ch. 27 - interference and the wave nature of light#Young's Double Slit Experiment\|Young's double slit experiment]] with many slits that are very close together
 
 Each slit acts as a source of wavelets in accord with [[3_senior_year!/semester2/physics/ch. 27 - interference and the wave nature of light#Single-slit Diffraction\|Huygens]]. The figure shows how the first and second order *maxima* (bright fringes) develop.
-![diffraction grating - maxima development.png|400](/img/user/0_attachments/diffraction%20grating%20-%20maxima%20development.png)
+![diffraction grating - maxima development.png\|400](/img/user/0_attachments/diffraction%20grating%20-%20maxima%20development.png)
 
 **Principal maxima of the diffraction grating**: $\boxed{\sin\theta=\dfrac{m\lambda}d}$, $m=0,\ 1,\ 2,\ 3,\ \dots$ 
 - $d=$ slit separation distance, calculated by knowing the number of slits per cm

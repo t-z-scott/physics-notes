@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-22-electromagnetic-induction/","tags":["physics"],"noteIcon":"","created":"2025-10-23T00:28:51.342-07:00","updated":"2025-09-20T17:58:59.000-07:00"}
+{"dg-publish":true,"permalink":"/3-senior-year/semester2/physics/ch-22-electromagnetic-induction/","tags":["physics"],"noteIcon":"","created":"2026-01-06T22:06:49.532-08:00","updated":"2025-09-20T17:58:59.000-07:00","dg-note-properties":{"tags":"physics"}}
 ---
 
 # Induced emf
@@ -118,7 +118,7 @@ Since the emf changes sign as a function of time, so does the current. This is a
 ---
 
 # Mutual Induction
-Let's place two coils side by side. Let's connect one to an AC [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Generators\|generator]] (*primary coil*) and the other to a voltmeter (*secondary coil*). ![mutual induction.png|500](/img/user/0_attachments/mutual%20induction.png)
+Let's place two coils side by side. Let's connect one to an AC [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Generators\|generator]] (*primary coil*) and the other to a voltmeter (*secondary coil*). ![mutual induction.png\|500](/img/user/0_attachments/mutual%20induction.png)
 The primary coil creates a [[3_senior_year!/semester2/physics/ch. 21 - magnetic fields#Magnetic Fields\|magnetic field]], and some of those field lines pass through the secondary coil. This produces a change in [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Magnetic Flux\|magnetic flux]] in the secondary coil, leading to an [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Induced emf\|induced emf]]. This is called **mutual inductance**.
 
 Recall [[3_senior_year!/semester2/physics/ch. 22 - electromagnetic induction#Faraday's Law of Electromagnetic Induction\|Faraday's Law]]. The net flux through the secondary coil is $N_s\Phi_s \varpropto I_P,\ \therefore$  the flux through the secondary coil is proportional to the current in the primary coil.
